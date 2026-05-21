@@ -1,0 +1,78 @@
+name: GitHub Stats
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+          architecture: "x64"
+          cache: "pip"
+
+      - name: Install requirements
+        run: |
+          python3 -m pip install --upgrade pip setuptools wheel
+          python3 -m pip install -r requirements.txt
+
+      - name: Generate images
+        run: |
+          git pull
+          python3 generate_images.py
+          python3 github_stats.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXCLUDE_FORKED_REPOS: true
+          EXCLUDED_LANGS: "HTML,CSS,Jupyter Notebook"
+
+      - name: Commit stats images
+        run: |
+          set -e
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          COMMIT_PREFIX="[github-stats]"
+
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+          git add .
+
+          # Skip if no changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Find latest workflow commit
+          STATS_COMMIT=$(git log --grep="^${COMMIT_PREFIX}" --format="%H" -n 1 || true)
+
+          if [ -n "$STATS_COMMIT" ]; then
+            echo "Removing previous workflow commit: $STATS_COMMIT"
+
+            # Rebuild branch without old stats commit
+            git rebase --onto "${STATS_COMMIT}^" "$STATS_COMMIT" main
+          fi
+
+          # Create fresh workflow commit at top
+          git add .
+
+          git commit -m "${COMMIT_PREFIX} Update stats images"
+
+          git push --force-with-lease origin main
