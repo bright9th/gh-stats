@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-22T07:54:37.966Z",
+  "datasets": {
+    "branches": {
+      "path": "data/branches/current.json",
+      "records": 47,
+      "sha256": "0aee5ae5a6d8b574709de15517f5db16c3990307afac20b8948c6ab7d4ad677f"
+    },
+    "check-runs": {
+      "path": "data/check-runs/current.json",
+      "records": 1471,
+      "sha256": "0b855f04e66cb845466e1452577dccee54ddd2b1fdac25c4361897ef503fbb84"
+    },
+    "commit-comment-reactions": {
+      "path": "data/commit-comment-reactions/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "commit-comments": {
+      "path": "data/commit-comments/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "commit-stats": {
+      "path": "data/commit-stats/current.json",
+      "records": 15722,
+      "sha256": "2bb2c31cdce2925e021331868868b3e41442458c20bd7a18e29ab0129f2bc6c5"
+    },
+    "commits": {
+      "path": "data/commits/current.json",
+      "records": 2295,
+      "sha256": "80f6c2ac78308c46f0d3a8d7945c96044c2a3090fcc3b3cfe9e048d255614438"
+    },
+    "contributors": {
+      "path": "data/contributors/current.json",
+      "records": 26,
+      "sha256": "fde3634f02f9714931c97644fcc86f9e7613d4ef448e1e42a5253183b20d0826"
+    },
+    "deployments": {
+      "path": "data/deployments/current.json",
+      "records": 111,
+      "sha256": "2df5175c6004b02a80eec746725f39cab49450f70f482a7dafa2a5683df0484a"
+    },
+    "environments": {
+      "path": "data/environments/current.json",
+      "records": 4,
+      "sha256": "157e577850648e8e1a2fcf80e9685475dcd7f32829e47298c1affe1bc5e8be85"
+    },
+    "followers": {
+      "path": "data/followers/current.json",
+      "records": 1,
+      "sha256": "dd17e13c970af0803b4ca9018382f7b860130ddba48373ec92e2e76cf079bb9a"
+    },
+    "following": {
+      "path": "data/following/current.json",
+      "records": 3,
+      "sha256": "0ffb40658f88b472e4d2c7b7d01a2146885793cf17229b2647851ee3e858bc53"
+    },
+    "gists": {
+      "path": "data/gists/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "issue-comment-reactions": {
+      "path": "data/issue-comment-reactions/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "issue-comments": {
+      "path": "data/issue-comments/current.json",
+      "records": 80,
+      "sha256": "c9c224b1632c2355bd8e352636068f05603275bbed320f6d91436881a480fbbb"
+    },
+    "issue-reactions": {
+      "path": "data/issue-reactions/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "issues": {
+      "path": "data/issues/current.json",
+      "records": 92,
+      "sha256": "e0f08734b6fb1698b072f618dd57572fc9de5c2a25ecddc80404ec177a0e56f4"
+    },
+    "labels": {
+      "path": "data/labels/current.json",
+      "records": 162,
+      "sha256": "ba59512d78b84980437bc74d1394ed0308fda003555350a5a8d9d9401e524909"
+    },
+    "languages": {
+      "path": "data/languages/current.json",
+      "records": 40,
+      "sha256": "0f911dd0b9d03ce80741a3f6da53f8052fc21521d0e3250466049175f14221dc"
+    },
+    "milestones": {
+      "path": "data/milestones/current.json",
+      "records": 7,
+      "sha256": "e8deca116bb97141df4ca2e2f6ebf4abce70c92683364dd99d6b63445f284a31"
+    },
+    "organizations": {
+      "path": "data/organizations/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "pull-request-review-comment-reactions": {
+      "path": "data/pull-request-review-comment-reactions/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "pull-request-review-comments": {
+      "path": "data/pull-request-review-comments/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "pull-request-reviews": {
+      "path": "data/pull-request-reviews/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "pull-requests": {
+      "path": "data/pull-requests/current.json",
+      "records": 294,
+      "sha256": "3c1c2c018d51014bfb84cf0380f9f49af4338ad0eaac036ae5e6b98a97a2508e"
+    },
+    "releases": {
+      "path": "data/releases/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "repos": {
+      "path": "data/repos/current.json",
+      "records": 16,
+      "sha256": "b448e03f9c245f5702643a0b050562a8febcc2295a744328489f31ee99ebe65e"
+    },
+    "stars": {
+      "path": "data/stars/current.json",
+      "records": 20,
+      "sha256": "49f5c7746a0e84aa5a14c78c9d6c875c2bd78e4bdf5f4633c1f0f0286081e29c"
+    },
+    "tags": {
+      "path": "data/tags/current.json",
+      "records": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "workflow-runs": {
+      "path": "data/workflow-runs/current.json",
+      "records": 1996,
+      "sha256": "a61cf591e20c5bc3263fcf3a6942811abef22159ef21eee749fbad5ac974ca25"
+    }
+  }
+}
