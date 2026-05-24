@@ -1,0 +1,11 @@
+{
+  "name": "@gh-stats/utils",
+  "version": "1.0.0",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^25.9.1"
+  }
+}

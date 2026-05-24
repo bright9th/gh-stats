@@ -1,0 +1,22 @@
+{
+  "name": "renderer",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "eslint": "^10.4.0",
+    "prettier": "^3.8.3",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@gh-stats/types": "workspace:*",
+    "@gh-stats/io": "workspace:*",
+    "@gh-stats/utils": "workspace:*",
+
+    "fast-glob": "^3.3.3"
+  }
+}

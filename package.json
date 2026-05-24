@@ -2,12 +2,8 @@
   "name": "gh-stats",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "dev": "tsx src/index.ts",
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "update-data": "tsx src/index.ts"
+    "process": "pnpm --filter processor dev"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +16,9 @@
     "tsx": "^4.22.3",
     "typescript": "^6.0.3"
   },
-  "dependencies": {
-    "fast-glob": "^3.3.3"
-  }
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
 }

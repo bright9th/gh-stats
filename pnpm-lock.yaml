@@ -7,7 +7,34 @@ settings:
 importers:
 
   .:
+    devDependencies:
+      '@types/node':
+        specifier: ^25.9.1
+        version: 25.9.1
+      eslint:
+        specifier: ^10.4.0
+        version: 10.4.0
+      prettier:
+        specifier: ^3.8.3
+        version: 3.8.3
+      tsx:
+        specifier: ^4.22.3
+        version: 4.22.3
+      typescript:
+        specifier: ^6.0.3
+        version: 6.0.3
+
+  apps/processor:
     dependencies:
+      '@gh-stats/io':
+        specifier: workspace:*
+        version: link:../../packages/io
+      '@gh-stats/types':
+        specifier: workspace:*
+        version: link:../../packages/types
+      '@gh-stats/utils':
+        specifier: workspace:*
+        version: link:../../packages/utils
       fast-glob:
         specifier: ^3.3.3
         version: 3.3.3
@@ -27,6 +54,51 @@ importers:
       typescript:
         specifier: ^6.0.3
         version: 6.0.3
+
+  apps/renderer:
+    dependencies:
+      '@gh-stats/io':
+        specifier: workspace:*
+        version: link:../../packages/io
+      '@gh-stats/types':
+        specifier: workspace:*
+        version: link:../../packages/types
+      '@gh-stats/utils':
+        specifier: workspace:*
+        version: link:../../packages/utils
+      fast-glob:
+        specifier: ^3.3.3
+        version: 3.3.3
+    devDependencies:
+      '@types/node':
+        specifier: ^25.9.1
+        version: 25.9.1
+      eslint:
+        specifier: ^10.4.0
+        version: 10.4.0
+      prettier:
+        specifier: ^3.8.3
+        version: 3.8.3
+      tsx:
+        specifier: ^4.22.3
+        version: 4.22.3
+      typescript:
+        specifier: ^6.0.3
+        version: 6.0.3
+
+  packages/io:
+    dependencies:
+      '@types/node':
+        specifier: ^25.9.1
+        version: 25.9.1
+
+  packages/types: {}
+
+  packages/utils:
+    dependencies:
+      '@types/node':
+        specifier: ^25.9.1
+        version: 25.9.1
 
 packages:
 
