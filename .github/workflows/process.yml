@@ -6,7 +6,7 @@ on:
     - cron: "0 12 */1 * *"
 
 jobs:
-  fetch-n-process:
+  full-stack:
     runs-on: ubuntu-latest
 
     permissions:
@@ -28,8 +28,11 @@ jobs:
       - name: Install deps
         run: pnpm install
 
-      - name: Full-stack data process
-        run: pnpm full-stack
+      - name: Fetch and Process data
+        run: pnpm process
+
+      - name: Render images
+        run: pnpm render
 
       - name: Push changes
         run: |
