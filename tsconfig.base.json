@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "target": "es2022",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "declaration": true,
+    "declarationMap": true,
+    "paths": {
+      "@gh-stats/io": ["./packages/io/src/index.ts"],
+      "@gh-stats/utils": ["./packages/utils/src/index.ts"],
+      "@gh-stats/types": ["./packages/types/src/index.ts"],
+    }
+  },
+}
