@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-24T09:18:17.099Z",
+  "datasets": {
+    "branches": {
+      "path": "../../data/processed/SISO/branches/current.json",
+      "queries": 8,
+      "sha256": "211086fe456ea66e4db0c7147c92c1ab5c0613eeefb5927eb6297a91b4440f4a"
+    },
+    "check-runs": {
+      "path": "../../data/processed/SISO/check-runs/current.json",
+      "queries": 11,
+      "sha256": "c359a76922c6eca3f03284e8f61d30608e78642b26f12f026d935ac75e87f802"
+    },
+    "commit-comment-reactions": {
+      "path": "../../data/processed/SISO/commit-comment-reactions/current.json",
+      "queries": 9,
+      "sha256": "516273ef98b4cef1c61b162ff510fc5f2bb1c12c87ee0e6afccaa628b3e70ea5"
+    },
+    "commit-comments": {
+      "path": "../../data/processed/SISO/commit-comments/current.json",
+      "queries": 9,
+      "sha256": "5b6261955e84b8e2b350bd605626de760a6ee3885d993f4f55adfd90e230e730"
+    },
+    "commit-stats": {
+      "path": "../../data/processed/SISO/commit-stats/current.json",
+      "queries": 10,
+      "sha256": "70b7c280dafbad622a5ebc55913d06b6831daa10240dc2da7e47c66cda4628be"
+    },
+    "commits": {
+      "path": "../../data/processed/SISO/commits/current.json",
+      "queries": 9,
+      "sha256": "e99f9012641cb64b151f06ec6ca8343fc5c5d78c5be3ec623353a4db16811685"
+    },
+    "contributors": {
+      "path": "../../data/processed/SISO/contributors/current.json",
+      "queries": 7,
+      "sha256": "19f7310edfd14974c82d9c478af7df3d64d3efa299e594f177af45fa055d4f02"
+    },
+    "deployments": {
+      "path": "../../data/processed/SISO/deployments/current.json",
+      "queries": 11,
+      "sha256": "f89185d0c3e0477c8402914b1069012a0d9c6eb296196761afdfca711fa536a8"
+    },
+    "environments": {
+      "path": "../../data/processed/SISO/environments/current.json",
+      "queries": 7,
+      "sha256": "eadecc577a4806ae591d0ad314387c1a27507586e6c68902a79c3d2564ad2a88"
+    },
+    "followers": {
+      "path": "../../data/processed/SISO/followers/current.json",
+      "queries": 5,
+      "sha256": "ff4e42b355cbd3367c0b35dbb4ae982d155a97c1b78fb2e6bc3d7f200be94d89"
+    },
+    "following": {
+      "path": "../../data/processed/SISO/following/current.json",
+      "queries": 5,
+      "sha256": "bbe1b06a546d58c09095a3f1238e762f393a31b5de035b91a6962a243d554887"
+    },
+    "gists": {
+      "path": "../../data/processed/SISO/gists/current.json",
+      "queries": 7,
+      "sha256": "e3a7ee80a096f410ea3ee365535166eaf9d97fc684d24cdc2fbf3bfd3c750c62"
+    },
+    "issue-comment-reactions": {
+      "path": "../../data/processed/SISO/issue-comment-reactions/current.json",
+      "queries": 8,
+      "sha256": "222e07d466cd5d33698f22d2bd924906fe6fc25d0cab4d1315e329edc9b10197"
+    },
+    "issue-comments": {
+      "path": "../../data/processed/SISO/issue-comments/current.json",
+      "queries": 8,
+      "sha256": "eb4816477adc6d4e61cb885d6e2c5dc90f2fc5b737e260d73e89f4177f030fd7"
+    },
+    "issue-reactions": {
+      "path": "../../data/processed/SISO/issue-reactions/current.json",
+      "queries": 9,
+      "sha256": "4c327bd47726de15ccca21e9b578168cd96180193404c507b728e4480832dec5"
+    },
+    "issues": {
+      "path": "../../data/processed/SISO/issues/current.json",
+      "queries": 8,
+      "sha256": "9be8836ef8cdd9a5f3a8983545220e2b8aa3901007b004c8d258a041cebea285"
+    },
+    "labels": {
+      "path": "../../data/processed/SISO/labels/current.json",
+      "queries": 8,
+      "sha256": "a6c0c921abcee7f1098b777038953926af7f895968ad780b463afc4c10dd45d6"
+    },
+    "languages": {
+      "path": "../../data/processed/SISO/languages/current.json",
+      "queries": 6,
+      "sha256": "0f2f48f9efcd0d4829516d4eae2a968fc8f7fd6a62ccc9b71f142c65d3409b86"
+    },
+    "milestones": {
+      "path": "../../data/processed/SISO/milestones/current.json",
+      "queries": 8,
+      "sha256": "4154c47bfea1272c3977fb0c81d78822c926bbdab3db5af08051a161f74a2a46"
+    },
+    "organizations": {
+      "path": "../../data/processed/SISO/organizations/current.json",
+      "queries": 6,
+      "sha256": "6c17420e0fe0a835f8c9079d90fa6819b6fbdf465e56c17d054ea416e3b12813"
+    },
+    "pull-request-review-comment-reactions": {
+      "path": "../../data/processed/SISO/pull-request-review-comment-reactions/current.json",
+      "queries": 9,
+      "sha256": "516273ef98b4cef1c61b162ff510fc5f2bb1c12c87ee0e6afccaa628b3e70ea5"
+    },
+    "pull-request-review-comments": {
+      "path": "../../data/processed/SISO/pull-request-review-comments/current.json",
+      "queries": 10,
+      "sha256": "04834f8ff0bec3d163d514a0aa4829c000f2d1d993538424b88b49a30464bc1c"
+    },
+    "pull-request-reviews": {
+      "path": "../../data/processed/SISO/pull-request-reviews/current.json",
+      "queries": 9,
+      "sha256": "d61c5e702fc53d21247bab2b85636ae207b913768d10a61dd5c1053eaa393217"
+    },
+    "pull-requests": {
+      "path": "../../data/processed/SISO/pull-requests/current.json",
+      "queries": 8,
+      "sha256": "efbbf1a8c779f7d7900f0ff8c5589fc69221b1e79fd7bbbc095a54a880b021e0"
+    },
+    "releases": {
+      "path": "../../data/processed/SISO/releases/current.json",
+      "queries": 7,
+      "sha256": "beabc84c0097e36f9de94b065e443f0db447397a02000ff5c4c604b2a59e165e"
+    },
+    "repos": {
+      "path": "../../data/processed/SISO/repos/current.json",
+      "queries": 6,
+      "sha256": "2161d452d9c0943fa655cef1b10227fb545f6a2f25b41a805f4e33976b577268"
+    },
+    "stars": {
+      "path": "../../data/processed/SISO/stars/current.json",
+      "queries": 6,
+      "sha256": "0da82c340f2b0343759a161316df27fd1b272df6c36b3afa02d51d8d481e411c"
+    },
+    "tags": {
+      "path": "../../data/processed/SISO/tags/current.json",
+      "queries": 9,
+      "sha256": "1929f3a6256448d9b22976ce0342aac5439a24846fdfe62970489f1549d64499"
+    },
+    "workflow-runs": {
+      "path": "../../data/processed/SISO/workflow-runs/current.json",
+      "queries": 11,
+      "sha256": "1fc8668d58cae0081e40cf0b7ef1febf83017b7de251e99076ba2d1b83eae11a"
+    }
+  }
+}

@@ -1,0 +1,355 @@
+<svg
+  width="495"
+  height="220"
+  viewBox="0 0 495 220"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    .title {
+      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #c9d1d9;
+    }
+
+    .lang {
+      font: 500 13px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #8b949e;
+    }
+
+    .percent {
+      fill: #c9d1d9;
+      font-weight: 600;
+    }
+  </style>
+
+  <rect
+    x="0.5"
+    y="0.5"
+    rx="12"
+    width="494"
+    height="219"
+    fill="#0d1117"
+    stroke="#30363d"
+  />
+
+  <text x="24" y="36" class="title">
+    Languages Used (By File Size)
+  </text>
+
+  <g>
+    
+        <rect
+          x="24"
+          y="62"
+          width="315.5544669412506"
+          height="10"
+          fill="#3178c6"
+        />
+      
+        <rect
+          x="339.5544669412506"
+          y="62"
+          width="21.73882611243634"
+          height="10"
+          fill="#dea584"
+        />
+      
+        <rect
+          x="361.29329305368697"
+          y="62"
+          width="21.238687169667006"
+          height="10"
+          fill="#f1e05a"
+        />
+      
+        <rect
+          x="382.53198022335397"
+          y="62"
+          width="18.283357957843936"
+          height="10"
+          fill="#888888"
+        />
+      
+        <rect
+          x="400.8153381811979"
+          y="62"
+          width="18.145204823652737"
+          height="10"
+          fill="#888888"
+        />
+      
+        <rect
+          x="418.96054300485065"
+          y="62"
+          width="16.498845812044824"
+          height="10"
+          fill="#888888"
+        />
+      
+        <rect
+          x="435.45938881689545"
+          y="62"
+          width="9.400357399321518"
+          height="10"
+          fill="#563d7c"
+        />
+      
+        <rect
+          x="444.859746216217"
+          y="62"
+          width="7.447355822802572"
+          height="10"
+          fill="#888888"
+        />
+      
+        <rect
+          x="452.3071020390196"
+          y="62"
+          width="6.09800555220809"
+          height="10"
+          fill="#888888"
+        />
+      
+        <rect
+          x="458.40510759122765"
+          y="62"
+          width="4.247081514008458"
+          height="10"
+          fill="#888888"
+        />
+      
+        <rect
+          x="462.6521891052361"
+          y="62"
+          width="4.17431539733505"
+          height="10"
+          fill="#3572A5"
+        />
+      
+        <rect
+          x="466.8265045025712"
+          y="62"
+          width="4.173495497428871"
+          height="10"
+          fill="#e34c26"
+        />
+      
+  </g>
+
+  
+        <circle
+          cx="24"
+          cy="101"
+          r="5"
+          fill="#3178c6"
+        />
+
+        <text
+          x="36"
+          y="105"
+          class="lang"
+        >
+          TypeScript
+          <tspan class="percent">
+            70.0%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="169"
+          cy="101"
+          r="5"
+          fill="#dea584"
+        />
+
+        <text
+          x="181"
+          y="105"
+          class="lang"
+        >
+          Rust
+          <tspan class="percent">
+            4.8%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="314"
+          cy="101"
+          r="5"
+          fill="#f1e05a"
+        />
+
+        <text
+          x="326"
+          y="105"
+          class="lang"
+        >
+          JavaScript
+          <tspan class="percent">
+            4.7%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="24"
+          cy="129"
+          r="5"
+          fill="#888888"
+        />
+
+        <text
+          x="36"
+          y="133"
+          class="lang"
+        >
+          GDScript
+          <tspan class="percent">
+            4.1%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="169"
+          cy="129"
+          r="5"
+          fill="#888888"
+        />
+
+        <text
+          x="181"
+          y="133"
+          class="lang"
+        >
+          MDX
+          <tspan class="percent">
+            4.0%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="314"
+          cy="129"
+          r="5"
+          fill="#888888"
+        />
+
+        <text
+          x="326"
+          y="133"
+          class="lang"
+        >
+          ShaderLab
+          <tspan class="percent">
+            3.7%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="24"
+          cy="157"
+          r="5"
+          fill="#563d7c"
+        />
+
+        <text
+          x="36"
+          y="161"
+          class="lang"
+        >
+          CSS
+          <tspan class="percent">
+            2.1%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="169"
+          cy="157"
+          r="5"
+          fill="#888888"
+        />
+
+        <text
+          x="181"
+          y="161"
+          class="lang"
+        >
+          C#
+          <tspan class="percent">
+            1.7%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="314"
+          cy="157"
+          r="5"
+          fill="#888888"
+        />
+
+        <text
+          x="326"
+          y="161"
+          class="lang"
+        >
+          Svelte
+          <tspan class="percent">
+            1.4%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="24"
+          cy="185"
+          r="5"
+          fill="#888888"
+        />
+
+        <text
+          x="36"
+          y="189"
+          class="lang"
+        >
+          Java
+          <tspan class="percent">
+            0.9%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="169"
+          cy="185"
+          r="5"
+          fill="#3572A5"
+        />
+
+        <text
+          x="181"
+          y="189"
+          class="lang"
+        >
+          Python
+          <tspan class="percent">
+            0.9%
+          </tspan>
+        </text>
+      
+        <circle
+          cx="314"
+          cy="185"
+          r="5"
+          fill="#e34c26"
+        />
+
+        <text
+          x="326"
+          y="189"
+          class="lang"
+        >
+          HTML
+          <tspan class="percent">
+            0.9%
+          </tspan>
+        </text>
+      
+</svg>
