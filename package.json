@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "process": "pnpm --filter processor dev"
+    "process": "pnpm --filter processor dev",
+    "render": "pnpm --filter renderer dev",
+    "full-stack": "pnpm process & pnpm render"
   },
   "keywords": [],
   "author": "",

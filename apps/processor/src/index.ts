@@ -11,6 +11,10 @@ async function main(): Promise<void> {
 
   const skipFetch = args.includes("skip");
 
+  console.log(
+    `\n\t========== ${skipFetch ? "" : "Fetch & "}Process ==========\n`,
+  );
+
   // fetch
   if (!skipFetch) {
     const manifest = await fetchManifest();
