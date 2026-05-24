@@ -1,3 +1,3 @@
 <div align="center">
-<img src="./generated/overview.svg"><img src="./generated/languages.svg">
+<img src="./data/rendered/stats.svg"><img src="./data/rendered/languages.svg">
 </div>
