@@ -528,6 +528,14 @@
     "is_default": true
   },
   {
+    "id": 11106711587,
+    "repo": "bright9th/gh-activity-vault",
+    "name": "dependencies",
+    "color": "0366d6",
+    "description": "Pull requests that update a dependency file",
+    "is_default": false
+  },
+  {
     "id": 11011465598,
     "repo": "bright9th/gh-activity-vault",
     "name": "documentation",
@@ -574,6 +582,14 @@
     "color": "e4e669",
     "description": "This doesn't seem right",
     "is_default": true
+  },
+  {
+    "id": 11106711589,
+    "repo": "bright9th/gh-activity-vault",
+    "name": "javascript",
+    "color": "168700",
+    "description": "Pull requests that update javascript code",
+    "is_default": false
   },
   {
     "id": 11011465638,
