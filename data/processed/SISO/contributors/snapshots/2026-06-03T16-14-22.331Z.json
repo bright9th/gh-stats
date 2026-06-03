@@ -22,7 +22,7 @@
       "repo": "bright9th/bright9th",
       "login": "bright9th",
       "type": "User",
-      "contributions": 2,
+      "contributions": 5,
       "avatarUrl": "https://avatars.githubusercontent.com/u/129858054?v=4",
       "htmlUrl": "https://github.com/bright9th",
       "isBot": false
@@ -103,7 +103,7 @@
       "repo": "bright9th/gh-activity-vault",
       "login": "github-actions[bot]",
       "type": "Bot",
-      "contributions": 1,
+      "contributions": 11,
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
       "htmlUrl": "https://github.com/apps/github-actions",
       "isBot": true
@@ -112,10 +112,19 @@
       "repo": "bright9th/gh-stats",
       "login": "bright9th",
       "type": "User",
-      "contributions": 3,
+      "contributions": 18,
       "avatarUrl": "https://avatars.githubusercontent.com/u/129858054?v=4",
       "htmlUrl": "https://github.com/bright9th",
       "isBot": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "login": "github-actions[bot]",
+      "type": "Bot",
+      "contributions": 12,
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "htmlUrl": "https://github.com/apps/github-actions",
+      "isBot": true
     },
     {
       "repo": "bright9th/JavaGame_GroundZero",
@@ -245,11 +254,11 @@
     }
   ],
   "overview": {
-    "totalContributorEntries": 27,
+    "totalContributorEntries": 28,
     "uniqueContributors": 7,
     "uniqueRepositories": 16,
-    "totalContributions": 2306,
-    "averageContributions": 85.4074074074074
+    "totalContributions": 2346,
+    "averageContributions": 83.78571428571429
   },
   "repos": [
     {
@@ -289,10 +298,16 @@
       "averageContributions": 49
     },
     {
+      "repo": "bright9th/gh-stats",
+      "contributors": 2,
+      "contributions": 30,
+      "averageContributions": 15
+    },
+    {
       "repo": "bright9th/gh-activity-vault",
       "contributors": 2,
-      "contributions": 19,
-      "averageContributions": 9.5
+      "contributions": 29,
+      "averageContributions": 14.5
     },
     {
       "repo": "bright9th/Pal-lane",
@@ -319,6 +334,12 @@
       "averageContributions": 6
     },
     {
+      "repo": "bright9th/bright9th",
+      "contributors": 1,
+      "contributions": 5,
+      "averageContributions": 5
+    },
+    {
       "repo": "bright9th/ShootDaNumba",
       "contributors": 1,
       "contributions": 5,
@@ -329,18 +350,6 @@
       "contributors": 1,
       "contributions": 3,
       "averageContributions": 3
-    },
-    {
-      "repo": "bright9th/gh-stats",
-      "contributors": 1,
-      "contributions": 3,
-      "averageContributions": 3
-    },
-    {
-      "repo": "bright9th/bright9th",
-      "contributors": 1,
-      "contributions": 2,
-      "averageContributions": 2
     },
     {
       "repo": "bright9th/AronaMathQuestions",
@@ -360,9 +369,9 @@
     {
       "login": "bright9th",
       "repos": 16,
-      "contributions": 760,
+      "contributions": 778,
       "type": "User",
-      "averageContributionsPerRepo": 47.5
+      "averageContributionsPerRepo": 48.625
     },
     {
       "login": "dependabot[bot]",
@@ -373,10 +382,10 @@
     },
     {
       "login": "github-actions[bot]",
-      "repos": 4,
-      "contributions": 199,
+      "repos": 5,
+      "contributions": 221,
       "type": "Bot",
-      "averageContributionsPerRepo": 49.75
+      "averageContributionsPerRepo": 44.2
     },
     {
       "login": "SL1900",
@@ -407,7 +416,7 @@
     },
     {
       "type": "Bot",
-      "count": 8
+      "count": 9
     }
   ],
   "topContributors": [
@@ -418,7 +427,7 @@
     },
     {
       "login": "bright9th",
-      "contributions": 760,
+      "contributions": 778,
       "repos": 16
     },
     {
@@ -428,8 +437,8 @@
     },
     {
       "login": "github-actions[bot]",
-      "contributions": 199,
-      "repos": 4
+      "contributions": 221,
+      "repos": 5
     },
     {
       "login": "SL1900",
@@ -479,8 +488,13 @@
       "contributors": 1
     },
     {
+      "repo": "bright9th/gh-stats",
+      "contributions": 30,
+      "contributors": 2
+    },
+    {
       "repo": "bright9th/gh-activity-vault",
-      "contributions": 19,
+      "contributions": 29,
       "contributors": 2
     },
     {
@@ -504,6 +518,11 @@
       "contributors": 1
     },
     {
+      "repo": "bright9th/bright9th",
+      "contributions": 5,
+      "contributors": 1
+    },
+    {
       "repo": "bright9th/ShootDaNumba",
       "contributions": 5,
       "contributors": 1
@@ -511,16 +530,6 @@
     {
       "repo": "bright9th/code-rev-format",
       "contributions": 3,
-      "contributors": 1
-    },
-    {
-      "repo": "bright9th/gh-stats",
-      "contributions": 3,
-      "contributors": 1
-    },
-    {
-      "repo": "bright9th/bright9th",
-      "contributions": 2,
       "contributors": 1
     },
     {
