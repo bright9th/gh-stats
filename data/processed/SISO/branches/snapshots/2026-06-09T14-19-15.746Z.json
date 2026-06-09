@@ -110,6 +110,15 @@
     },
     {
       "repo": "bright9th/falling-nikochan",
+      "name": "chord-lineconnector",
+      "protected": false,
+      "commitSha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
+      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
+      "isDefaultLike": false,
+      "nameLength": 19
+    },
+    {
+      "repo": "bright9th/falling-nikochan",
       "name": "disable-changelog-popup-on-page",
       "protected": false,
       "commitSha": "15be070e77cf78ac8b91d40a92089ef7c1eab64e",
@@ -146,6 +155,15 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "protected": false,
+      "commitSha": "78862e51bedd3d7ef00f81298e7e7fa840c383d1",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/78862e51bedd3d7ef00f81298e7e7fa840c383d1",
+      "isDefaultLike": false,
+      "nameLength": 50
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
       "name": "dev",
       "protected": true,
       "commitSha": "b7bc6ac22ad36b22b75c71c1c708e5586ee9d852",
@@ -157,8 +175,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "main",
       "protected": true,
-      "commitSha": "a8a68cd47cf3f8765f0284e976d0facd4c64e8c6",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/a8a68cd47cf3f8765f0284e976d0facd4c64e8c6",
+      "commitSha": "9210efb52ac5555aa5abca4b42c1d385978d23b9",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/9210efb52ac5555aa5abca4b42c1d385978d23b9",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -175,8 +193,8 @@
       "repo": "bright9th/gh-stats",
       "name": "main",
       "protected": true,
-      "commitSha": "4bc3776fd72435b3cb9bbae4eda192b231fc42fc",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/4bc3776fd72435b3cb9bbae4eda192b231fc42fc",
+      "commitSha": "e840f2c5a0a1ffc540832951166a755be785e69c",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/e840f2c5a0a1ffc540832951166a755be785e69c",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -434,12 +452,12 @@
     }
   ],
   "overview": {
-    "totalBranches": 48,
+    "totalBranches": 50,
     "protectedBranches": 15,
-    "unprotectedBranches": 33,
-    "protectionRate": 0.3125,
+    "unprotectedBranches": 35,
+    "protectionRate": 0.3,
     "uniqueRepositories": 16,
-    "uniqueBranchNames": 25
+    "uniqueBranchNames": 27
   },
   "repos": [
     {
@@ -455,6 +473,12 @@
       "protectedRate": 0.2
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "branches": 5,
+      "protectedBranches": 0,
+      "protectedRate": 0
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "branches": 5,
       "protectedBranches": 1,
@@ -463,12 +487,6 @@
     {
       "repo": "bright9th/stella-nova-archive-db",
       "branches": 5,
-      "protectedBranches": 0,
-      "protectedRate": 0
-    },
-    {
-      "repo": "bright9th/falling-nikochan",
-      "branches": 4,
       "protectedBranches": 0,
       "protectedRate": 0
     },
@@ -486,9 +504,9 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "branches": 2,
+      "branches": 3,
       "protectedBranches": 2,
-      "protectedRate": 1
+      "protectedRate": 0.6666666666666666
     },
     {
       "repo": "bright9th/gh-stats",
@@ -565,6 +583,10 @@
       "count": 1
     },
     {
+      "name": "chord-lineconnector",
+      "count": 1
+    },
+    {
       "name": "disable-changelog-popup-on-page",
       "count": 1
     },
@@ -574,6 +596,10 @@
     },
     {
       "name": "theme-preset",
+      "count": 1
+    },
+    {
+      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
       "count": 1
     },
     {
@@ -691,6 +717,10 @@
       "branches": 1
     },
     {
+      "commitSha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
+      "branches": 1
+    },
+    {
       "commitSha": "15be070e77cf78ac8b91d40a92089ef7c1eab64e",
       "branches": 1
     },
@@ -707,11 +737,15 @@
       "branches": 1
     },
     {
+      "commitSha": "78862e51bedd3d7ef00f81298e7e7fa840c383d1",
+      "branches": 1
+    },
+    {
       "commitSha": "b7bc6ac22ad36b22b75c71c1c708e5586ee9d852",
       "branches": 1
     },
     {
-      "commitSha": "a8a68cd47cf3f8765f0284e976d0facd4c64e8c6",
+      "commitSha": "9210efb52ac5555aa5abca4b42c1d385978d23b9",
       "branches": 1
     },
     {
@@ -719,7 +753,7 @@
       "branches": 1
     },
     {
-      "commitSha": "4bc3776fd72435b3cb9bbae4eda192b231fc42fc",
+      "commitSha": "e840f2c5a0a1ffc540832951166a755be785e69c",
       "branches": 1
     },
     {
@@ -847,6 +881,11 @@
       "protectedBranches": 1
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "branches": 5,
+      "protectedBranches": 0
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "branches": 5,
       "protectedBranches": 1
@@ -854,11 +893,6 @@
     {
       "repo": "bright9th/stella-nova-archive-db",
       "branches": 5,
-      "protectedBranches": 0
-    },
-    {
-      "repo": "bright9th/falling-nikochan",
-      "branches": 4,
       "protectedBranches": 0
     },
     {
@@ -873,7 +907,7 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "branches": 2,
+      "branches": 3,
       "protectedBranches": 2
     },
     {
@@ -943,6 +977,10 @@
       "count": 1
     },
     {
+      "name": "chord-lineconnector",
+      "count": 1
+    },
+    {
       "name": "disable-changelog-popup-on-page",
       "count": 1
     },
@@ -952,6 +990,10 @@
     },
     {
       "name": "theme-preset",
+      "count": 1
+    },
+    {
+      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
       "count": 1
     },
     {
@@ -1008,14 +1050,6 @@
     },
     {
       "name": "data-modify",
-      "count": 1
-    },
-    {
-      "name": "data-workflow",
-      "count": 1
-    },
-    {
-      "name": "documentation",
       "count": 1
     }
   ],
