@@ -110,6 +110,15 @@
     },
     {
       "repo": "bright9th/falling-nikochan",
+      "name": "chart-video-renderer",
+      "protected": false,
+      "commitSha": "f599d36dffdb1cadc8e946015b3ed053ebcb3428",
+      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/f599d36dffdb1cadc8e946015b3ed053ebcb3428",
+      "isDefaultLike": false,
+      "nameLength": 20
+    },
+    {
+      "repo": "bright9th/falling-nikochan",
       "name": "chord-lineconnector",
       "protected": false,
       "commitSha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
@@ -157,8 +166,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
       "protected": false,
-      "commitSha": "52146a5ef4f0f600e4d77c773e29ef6b7725677b",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/52146a5ef4f0f600e4d77c773e29ef6b7725677b",
+      "commitSha": "9346702a905a145b5a46bce9b6267933f0225073",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/9346702a905a145b5a46bce9b6267933f0225073",
       "isDefaultLike": false,
       "nameLength": 50
     },
@@ -175,8 +184,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "main",
       "protected": true,
-      "commitSha": "a3a3e949054f30d8638f16e6e4e1f6acf59098f2",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/a3a3e949054f30d8638f16e6e4e1f6acf59098f2",
+      "commitSha": "60234e3fa6e57107521e33774614f64a3334d150",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/60234e3fa6e57107521e33774614f64a3334d150",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -193,8 +202,8 @@
       "repo": "bright9th/gh-stats",
       "name": "main",
       "protected": true,
-      "commitSha": "ffd34d22123ef83f8164b81b8070828bfd5f774c",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/ffd34d22123ef83f8164b81b8070828bfd5f774c",
+      "commitSha": "40b68f8a8bb090c723e4086870932cc9dc19a76e",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/40b68f8a8bb090c723e4086870932cc9dc19a76e",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -227,10 +236,10 @@
     },
     {
       "repo": "bright9th/my-react-vite-template",
-      "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
       "protected": false,
-      "commitSha": "3e72c6760ca7f4ffece61709303bb49740b374c9",
-      "commitUrl": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/3e72c6760ca7f4ffece61709303bb49740b374c9",
+      "commitSha": "432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
+      "commitUrl": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
       "isDefaultLike": false,
       "nameLength": 50
     },
@@ -452,12 +461,12 @@
     }
   ],
   "overview": {
-    "totalBranches": 50,
+    "totalBranches": 51,
     "protectedBranches": 15,
-    "unprotectedBranches": 35,
-    "protectionRate": 0.3,
+    "unprotectedBranches": 36,
+    "protectionRate": 0.29411764705882354,
     "uniqueRepositories": 16,
-    "uniqueBranchNames": 27
+    "uniqueBranchNames": 28
   },
   "repos": [
     {
@@ -467,16 +476,16 @@
       "protectedRate": 0.2
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "branches": 6,
+      "protectedBranches": 0,
+      "protectedRate": 0
+    },
+    {
       "repo": "bright9th/code-rev-format",
       "branches": 5,
       "protectedBranches": 1,
       "protectedRate": 0.2
-    },
-    {
-      "repo": "bright9th/falling-nikochan",
-      "branches": 5,
-      "protectedBranches": 0,
-      "protectedRate": 0
     },
     {
       "repo": "bright9th/my-react-vite-template",
@@ -583,6 +592,10 @@
       "count": 1
     },
     {
+      "name": "chart-video-renderer",
+      "count": 1
+    },
+    {
       "name": "chord-lineconnector",
       "count": 1
     },
@@ -607,7 +620,7 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
       "count": 1
     },
     {
@@ -717,6 +730,10 @@
       "branches": 1
     },
     {
+      "commitSha": "f599d36dffdb1cadc8e946015b3ed053ebcb3428",
+      "branches": 1
+    },
+    {
       "commitSha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
       "branches": 1
     },
@@ -737,7 +754,7 @@
       "branches": 1
     },
     {
-      "commitSha": "52146a5ef4f0f600e4d77c773e29ef6b7725677b",
+      "commitSha": "9346702a905a145b5a46bce9b6267933f0225073",
       "branches": 1
     },
     {
@@ -745,7 +762,7 @@
       "branches": 1
     },
     {
-      "commitSha": "a3a3e949054f30d8638f16e6e4e1f6acf59098f2",
+      "commitSha": "60234e3fa6e57107521e33774614f64a3334d150",
       "branches": 1
     },
     {
@@ -753,7 +770,7 @@
       "branches": 1
     },
     {
-      "commitSha": "ffd34d22123ef83f8164b81b8070828bfd5f774c",
+      "commitSha": "40b68f8a8bb090c723e4086870932cc9dc19a76e",
       "branches": 1
     },
     {
@@ -769,7 +786,7 @@
       "branches": 1
     },
     {
-      "commitSha": "3e72c6760ca7f4ffece61709303bb49740b374c9",
+      "commitSha": "432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
       "branches": 1
     },
     {
@@ -876,14 +893,14 @@
       "protectedBranches": 2
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "branches": 6,
+      "protectedBranches": 0
+    },
+    {
       "repo": "bright9th/code-rev-format",
       "branches": 5,
       "protectedBranches": 1
-    },
-    {
-      "repo": "bright9th/falling-nikochan",
-      "branches": 5,
-      "protectedBranches": 0
     },
     {
       "repo": "bright9th/my-react-vite-template",
@@ -977,6 +994,10 @@
       "count": 1
     },
     {
+      "name": "chart-video-renderer",
+      "count": 1
+    },
+    {
       "name": "chord-lineconnector",
       "count": 1
     },
@@ -1001,7 +1022,7 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
       "count": 1
     },
     {
@@ -1046,10 +1067,6 @@
     },
     {
       "name": "data-format",
-      "count": 1
-    },
-    {
-      "name": "data-modify",
       "count": 1
     }
   ],
