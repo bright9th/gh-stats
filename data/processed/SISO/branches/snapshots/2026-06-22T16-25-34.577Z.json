@@ -22,8 +22,8 @@
       "repo": "bright9th/bright9th",
       "name": "main",
       "protected": true,
-      "commitSha": "44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
-      "commitUrl": "https://api.github.com/repos/bright9th/bright9th/commits/44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
+      "commitSha": "f75fde646dc3bacfbf1d123028f0f580b0a624fd",
+      "commitUrl": "https://api.github.com/repos/bright9th/bright9th/commits/f75fde646dc3bacfbf1d123028f0f580b0a624fd",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -110,6 +110,15 @@
     },
     {
       "repo": "bright9th/falling-nikochan",
+      "name": "chart-video-renderer",
+      "protected": false,
+      "commitSha": "114bca2979c70bcf0c743cbffa946237a7f7b744",
+      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/114bca2979c70bcf0c743cbffa946237a7f7b744",
+      "isDefaultLike": false,
+      "nameLength": 20
+    },
+    {
+      "repo": "bright9th/falling-nikochan",
       "name": "chord-lineconnector",
       "protected": false,
       "commitSha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
@@ -155,10 +164,10 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
       "protected": false,
-      "commitSha": "f04a6e5d0ffccd934c27e9095a69860a3269d3dd",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/f04a6e5d0ffccd934c27e9095a69860a3269d3dd",
+      "commitSha": "1769daac3438e479d765842881a87e33154a5ac6",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/1769daac3438e479d765842881a87e33154a5ac6",
       "isDefaultLike": false,
       "nameLength": 50
     },
@@ -175,8 +184,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "main",
       "protected": true,
-      "commitSha": "7ebdb2ca3e94c8e9884b1737a08b5a8170ed4ba4",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/7ebdb2ca3e94c8e9884b1737a08b5a8170ed4ba4",
+      "commitSha": "14582c65a9a8b14ee10a6ffcc8712a90bbbaa377",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/14582c65a9a8b14ee10a6ffcc8712a90bbbaa377",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -193,8 +202,8 @@
       "repo": "bright9th/gh-stats",
       "name": "main",
       "protected": true,
-      "commitSha": "90e755c15fc02e4a350e1b5fca386e2d960efe4e",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/90e755c15fc02e4a350e1b5fca386e2d960efe4e",
+      "commitSha": "aa9ddfdc310501723d0a67457895e573dfb772fd",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/aa9ddfdc310501723d0a67457895e573dfb772fd",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -227,10 +236,10 @@
     },
     {
       "repo": "bright9th/my-react-vite-template",
-      "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
       "protected": false,
-      "commitSha": "3e72c6760ca7f4ffece61709303bb49740b374c9",
-      "commitUrl": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/3e72c6760ca7f4ffece61709303bb49740b374c9",
+      "commitSha": "432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
+      "commitUrl": "https://api.github.com/repos/bright9th/my-react-vite-template/commits/432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
       "isDefaultLike": false,
       "nameLength": 50
     },
@@ -452,12 +461,12 @@
     }
   ],
   "overview": {
-    "totalBranches": 50,
+    "totalBranches": 51,
     "protectedBranches": 15,
-    "unprotectedBranches": 35,
-    "protectionRate": 0.3,
+    "unprotectedBranches": 36,
+    "protectionRate": 0.29411764705882354,
     "uniqueRepositories": 16,
-    "uniqueBranchNames": 27
+    "uniqueBranchNames": 28
   },
   "repos": [
     {
@@ -467,16 +476,16 @@
       "protectedRate": 0.2
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "branches": 6,
+      "protectedBranches": 0,
+      "protectedRate": 0
+    },
+    {
       "repo": "bright9th/code-rev-format",
       "branches": 5,
       "protectedBranches": 1,
       "protectedRate": 0.2
-    },
-    {
-      "repo": "bright9th/falling-nikochan",
-      "branches": 5,
-      "protectedBranches": 0,
-      "protectedRate": 0
     },
     {
       "repo": "bright9th/my-react-vite-template",
@@ -583,6 +592,10 @@
       "count": 1
     },
     {
+      "name": "chart-video-renderer",
+      "count": 1
+    },
+    {
       "name": "chord-lineconnector",
       "count": 1
     },
@@ -599,7 +612,7 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
       "count": 1
     },
     {
@@ -607,7 +620,7 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
       "count": 1
     },
     {
@@ -677,7 +690,7 @@
       "branches": 1
     },
     {
-      "commitSha": "44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
+      "commitSha": "f75fde646dc3bacfbf1d123028f0f580b0a624fd",
       "branches": 1
     },
     {
@@ -717,6 +730,10 @@
       "branches": 1
     },
     {
+      "commitSha": "114bca2979c70bcf0c743cbffa946237a7f7b744",
+      "branches": 1
+    },
+    {
       "commitSha": "4813e6dd2a1d7a9dcc8e0e6f0f0396cdf11ba39a",
       "branches": 1
     },
@@ -737,7 +754,7 @@
       "branches": 1
     },
     {
-      "commitSha": "f04a6e5d0ffccd934c27e9095a69860a3269d3dd",
+      "commitSha": "1769daac3438e479d765842881a87e33154a5ac6",
       "branches": 1
     },
     {
@@ -745,7 +762,7 @@
       "branches": 1
     },
     {
-      "commitSha": "7ebdb2ca3e94c8e9884b1737a08b5a8170ed4ba4",
+      "commitSha": "14582c65a9a8b14ee10a6ffcc8712a90bbbaa377",
       "branches": 1
     },
     {
@@ -753,7 +770,7 @@
       "branches": 1
     },
     {
-      "commitSha": "90e755c15fc02e4a350e1b5fca386e2d960efe4e",
+      "commitSha": "aa9ddfdc310501723d0a67457895e573dfb772fd",
       "branches": 1
     },
     {
@@ -769,7 +786,7 @@
       "branches": 1
     },
     {
-      "commitSha": "3e72c6760ca7f4ffece61709303bb49740b374c9",
+      "commitSha": "432a61f53846f1d3734deb5dbd9faec9cf96ab2d",
       "branches": 1
     },
     {
@@ -876,14 +893,14 @@
       "protectedBranches": 2
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "branches": 6,
+      "protectedBranches": 0
+    },
+    {
       "repo": "bright9th/code-rev-format",
       "branches": 5,
       "protectedBranches": 1
-    },
-    {
-      "repo": "bright9th/falling-nikochan",
-      "branches": 5,
-      "protectedBranches": 0
     },
     {
       "repo": "bright9th/my-react-vite-template",
@@ -977,6 +994,10 @@
       "count": 1
     },
     {
+      "name": "chart-video-renderer",
+      "count": 1
+    },
+    {
       "name": "chord-lineconnector",
       "count": 1
     },
@@ -993,7 +1014,7 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
       "count": 1
     },
     {
@@ -1001,7 +1022,7 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-943379667c",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-21d8364ac9",
       "count": 1
     },
     {
@@ -1046,10 +1067,6 @@
     },
     {
       "name": "data-format",
-      "count": 1
-    },
-    {
-      "name": "data-modify",
       "count": 1
     }
   ],
