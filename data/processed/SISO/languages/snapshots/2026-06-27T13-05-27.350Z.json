@@ -53,22 +53,22 @@
     {
       "repo": "bright9th/falling-nikochan",
       "language": "TypeScript",
-      "bytes": 1225424
+      "bytes": 1299434
     },
     {
       "repo": "bright9th/falling-nikochan",
       "language": "MDX",
-      "bytes": 88524
+      "bytes": 89852
     },
     {
       "repo": "bright9th/falling-nikochan",
       "language": "JavaScript",
-      "bytes": 80789
+      "bytes": 88158
     },
     {
       "repo": "bright9th/falling-nikochan",
       "language": "CSS",
-      "bytes": 36499
+      "bytes": 37619
     },
     {
       "repo": "bright9th/falling-nikochan",
@@ -205,15 +205,15 @@
     "totalLanguageEntries": 40,
     "uniqueLanguages": 15,
     "uniqueRepositories": 14,
-    "totalBytes": 2369543,
-    "averageBytes": 59238.575
+    "totalBytes": 2453370,
+    "averageBytes": 61334.25
   },
   "repos": [
     {
       "repo": "bright9th/falling-nikochan",
-      "totalBytes": 1434644,
+      "totalBytes": 1518471,
       "languages": 7,
-      "averageBytesPerLanguage": 204949.14285714287
+      "averageBytesPerLanguage": 216924.42857142858
     },
     {
       "repo": "bright9th/stella-nova-archive",
@@ -298,205 +298,205 @@
     {
       "language": "TypeScript",
       "repos": 7,
-      "bytes": 1730614,
-      "byteShare": 0.7303577103264216,
-      "averageBytesPerRepo": 247230.57142857142
+      "bytes": 1804624,
+      "byteShare": 0.7355694412175905,
+      "averageBytesPerRepo": 257803.42857142858
+    },
+    {
+      "language": "JavaScript",
+      "repos": 7,
+      "bytes": 110985,
+      "byteShare": 0.04523777497890657,
+      "averageBytesPerRepo": 15855
     },
     {
       "language": "Rust",
       "repos": 2,
       "bytes": 106056,
-      "byteShare": 0.04475799763920722,
+      "byteShare": 0.043228701744946745,
       "averageBytesPerRepo": 53028
     },
     {
-      "language": "JavaScript",
-      "repos": 7,
-      "bytes": 103616,
-      "byteShare": 0.04372826321362389,
-      "averageBytesPerRepo": 14802.285714285714
+      "language": "MDX",
+      "repos": 1,
+      "bytes": 89852,
+      "byteShare": 0.03662390915353167,
+      "averageBytesPerRepo": 89852
     },
     {
       "language": "GDScript",
       "repos": 2,
       "bytes": 89198,
-      "byteShare": 0.037643545611959775,
+      "byteShare": 0.03635733705066908,
       "averageBytesPerRepo": 44599
-    },
-    {
-      "language": "MDX",
-      "repos": 1,
-      "bytes": 88524,
-      "byteShare": 0.03735910257800766,
-      "averageBytesPerRepo": 88524
     },
     {
       "language": "ShaderLab",
       "repos": 1,
       "bytes": 80492,
-      "byteShare": 0.03396941941969401,
+      "byteShare": 0.03280874878228722,
       "averageBytesPerRepo": 80492
     },
     {
       "language": "CSS",
       "repos": 5,
-      "bytes": 45861,
-      "byteShare": 0.019354364955605365,
-      "averageBytesPerRepo": 9172.2
+      "bytes": 46981,
+      "byteShare": 0.0191495779275038,
+      "averageBytesPerRepo": 9396.2
     },
     {
       "language": "C#",
       "repos": 1,
       "bytes": 36333,
-      "byteShare": 0.015333336428163574,
+      "byteShare": 0.014809425402609471,
       "averageBytesPerRepo": 36333
     },
     {
       "language": "Svelte",
       "repos": 1,
       "bytes": 29750,
-      "byteShare": 0.012555163590616418,
+      "byteShare": 0.012126177462021628,
       "averageBytesPerRepo": 29750
     },
     {
       "language": "Java",
       "repos": 1,
       "bytes": 20720,
-      "byteShare": 0.008744302171346965,
+      "byteShare": 0.008445525950019768,
       "averageBytesPerRepo": 20720
     },
     {
       "language": "HTML",
       "repos": 8,
       "bytes": 20361,
-      "byteShare": 0.008592796163648433,
+      "byteShare": 0.008299196615267979,
       "averageBytesPerRepo": 2545.125
     },
     {
       "language": "HLSL",
       "repos": 1,
       "bytes": 13994,
-      "byteShare": 0.005905780144103736,
+      "byteShare": 0.005703990837093467,
       "averageBytesPerRepo": 13994
     },
     {
       "language": "SCSS",
       "repos": 1,
       "bytes": 1770,
-      "byteShare": 0.000746979480853481,
+      "byteShare": 0.0007214566086648161,
       "averageBytesPerRepo": 1770
     },
     {
       "language": "Dockerfile",
       "repos": 1,
       "bytes": 1493,
-      "byteShare": 0.0006300793022114391,
+      "byteShare": 0.0006085506874217913,
       "averageBytesPerRepo": 1493
     },
     {
       "language": "GDShader",
       "repos": 1,
       "bytes": 761,
-      "byteShare": 0.00032115897453644014,
+      "byteShare": 0.0003101855814654944,
       "averageBytesPerRepo": 761
     }
   ],
   "topLanguages": [
     {
       "language": "TypeScript",
-      "bytes": 1730614,
+      "bytes": 1804624,
       "repos": 7,
-      "byteShare": 0.7303577103264216
+      "byteShare": 0.7355694412175905
+    },
+    {
+      "language": "JavaScript",
+      "bytes": 110985,
+      "repos": 7,
+      "byteShare": 0.04523777497890657
     },
     {
       "language": "Rust",
       "bytes": 106056,
       "repos": 2,
-      "byteShare": 0.04475799763920722
+      "byteShare": 0.043228701744946745
     },
     {
-      "language": "JavaScript",
-      "bytes": 103616,
-      "repos": 7,
-      "byteShare": 0.04372826321362389
+      "language": "MDX",
+      "bytes": 89852,
+      "repos": 1,
+      "byteShare": 0.03662390915353167
     },
     {
       "language": "GDScript",
       "bytes": 89198,
       "repos": 2,
-      "byteShare": 0.037643545611959775
-    },
-    {
-      "language": "MDX",
-      "bytes": 88524,
-      "repos": 1,
-      "byteShare": 0.03735910257800766
+      "byteShare": 0.03635733705066908
     },
     {
       "language": "ShaderLab",
       "bytes": 80492,
       "repos": 1,
-      "byteShare": 0.03396941941969401
+      "byteShare": 0.03280874878228722
     },
     {
       "language": "CSS",
-      "bytes": 45861,
+      "bytes": 46981,
       "repos": 5,
-      "byteShare": 0.019354364955605365
+      "byteShare": 0.0191495779275038
     },
     {
       "language": "C#",
       "bytes": 36333,
       "repos": 1,
-      "byteShare": 0.015333336428163574
+      "byteShare": 0.014809425402609471
     },
     {
       "language": "Svelte",
       "bytes": 29750,
       "repos": 1,
-      "byteShare": 0.012555163590616418
+      "byteShare": 0.012126177462021628
     },
     {
       "language": "Java",
       "bytes": 20720,
       "repos": 1,
-      "byteShare": 0.008744302171346965
+      "byteShare": 0.008445525950019768
     },
     {
       "language": "HTML",
       "bytes": 20361,
       "repos": 8,
-      "byteShare": 0.008592796163648433
+      "byteShare": 0.008299196615267979
     },
     {
       "language": "HLSL",
       "bytes": 13994,
       "repos": 1,
-      "byteShare": 0.005905780144103736
+      "byteShare": 0.005703990837093467
     },
     {
       "language": "SCSS",
       "bytes": 1770,
       "repos": 1,
-      "byteShare": 0.000746979480853481
+      "byteShare": 0.0007214566086648161
     },
     {
       "language": "Dockerfile",
       "bytes": 1493,
       "repos": 1,
-      "byteShare": 0.0006300793022114391
+      "byteShare": 0.0006085506874217913
     },
     {
       "language": "GDShader",
       "bytes": 761,
       "repos": 1,
-      "byteShare": 0.00032115897453644014
+      "byteShare": 0.0003101855814654944
     }
   ],
   "topRepositories": [
     {
       "repo": "bright9th/falling-nikochan",
-      "totalBytes": 1434644,
+      "totalBytes": 1518471,
       "languages": 7
     },
     {
