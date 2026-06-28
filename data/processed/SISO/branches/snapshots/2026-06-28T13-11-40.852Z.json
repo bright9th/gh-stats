@@ -22,8 +22,8 @@
       "repo": "bright9th/bright9th",
       "name": "main",
       "protected": true,
-      "commitSha": "44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
-      "commitUrl": "https://api.github.com/repos/bright9th/bright9th/commits/44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
+      "commitSha": "f75fde646dc3bacfbf1d123028f0f580b0a624fd",
+      "commitUrl": "https://api.github.com/repos/bright9th/bright9th/commits/f75fde646dc3bacfbf1d123028f0f580b0a624fd",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -112,8 +112,8 @@
       "repo": "bright9th/falling-nikochan",
       "name": "chart-video-renderer",
       "protected": false,
-      "commitSha": "f599d36dffdb1cadc8e946015b3ed053ebcb3428",
-      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/f599d36dffdb1cadc8e946015b3ed053ebcb3428",
+      "commitSha": "114bca2979c70bcf0c743cbffa946237a7f7b744",
+      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/114bca2979c70bcf0c743cbffa946237a7f7b744",
       "isDefaultLike": false,
       "nameLength": 20
     },
@@ -139,8 +139,8 @@
       "repo": "bright9th/falling-nikochan",
       "name": "main",
       "protected": false,
-      "commitSha": "ef57bcb785b73824e68a048872e0dccaa6ad26a8",
-      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/ef57bcb785b73824e68a048872e0dccaa6ad26a8",
+      "commitSha": "483ece64000dfe25df681b8a1d6e4d664e6ee50d",
+      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/483ece64000dfe25df681b8a1d6e4d664e6ee50d",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -164,15 +164,6 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
-      "protected": false,
-      "commitSha": "9346702a905a145b5a46bce9b6267933f0225073",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/9346702a905a145b5a46bce9b6267933f0225073",
-      "isDefaultLike": false,
-      "nameLength": 50
-    },
-    {
-      "repo": "bright9th/gh-activity-vault",
       "name": "dev",
       "protected": true,
       "commitSha": "b7bc6ac22ad36b22b75c71c1c708e5586ee9d852",
@@ -184,8 +175,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "main",
       "protected": true,
-      "commitSha": "60234e3fa6e57107521e33774614f64a3334d150",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/60234e3fa6e57107521e33774614f64a3334d150",
+      "commitSha": "222e2d2e9d14beee31495ab3fe3eb63b60a7dc43",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/222e2d2e9d14beee31495ab3fe3eb63b60a7dc43",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -202,8 +193,8 @@
       "repo": "bright9th/gh-stats",
       "name": "main",
       "protected": true,
-      "commitSha": "40b68f8a8bb090c723e4086870932cc9dc19a76e",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/40b68f8a8bb090c723e4086870932cc9dc19a76e",
+      "commitSha": "cf7367cb9704c6f92c2cf8482c24b506d38f10cc",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/cf7367cb9704c6f92c2cf8482c24b506d38f10cc",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -461,12 +452,12 @@
     }
   ],
   "overview": {
-    "totalBranches": 51,
+    "totalBranches": 50,
     "protectedBranches": 15,
-    "unprotectedBranches": 36,
-    "protectionRate": 0.29411764705882354,
+    "unprotectedBranches": 35,
+    "protectionRate": 0.3,
     "uniqueRepositories": 16,
-    "uniqueBranchNames": 28
+    "uniqueBranchNames": 27
   },
   "repos": [
     {
@@ -513,9 +504,9 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "branches": 3,
+      "branches": 2,
       "protectedBranches": 2,
-      "protectedRate": 0.6666666666666666
+      "protectedRate": 1
     },
     {
       "repo": "bright9th/gh-stats",
@@ -612,10 +603,6 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
-      "count": 1
-    },
-    {
       "name": "dependabot/npm_and_yarn/major-345d603f8d",
       "count": 1
     },
@@ -690,7 +677,7 @@
       "branches": 1
     },
     {
-      "commitSha": "44ed7ad9a8492a91afe86409eb17c0c96b9c9ae2",
+      "commitSha": "f75fde646dc3bacfbf1d123028f0f580b0a624fd",
       "branches": 1
     },
     {
@@ -730,7 +717,7 @@
       "branches": 1
     },
     {
-      "commitSha": "f599d36dffdb1cadc8e946015b3ed053ebcb3428",
+      "commitSha": "114bca2979c70bcf0c743cbffa946237a7f7b744",
       "branches": 1
     },
     {
@@ -742,7 +729,7 @@
       "branches": 1
     },
     {
-      "commitSha": "ef57bcb785b73824e68a048872e0dccaa6ad26a8",
+      "commitSha": "483ece64000dfe25df681b8a1d6e4d664e6ee50d",
       "branches": 1
     },
     {
@@ -754,15 +741,11 @@
       "branches": 1
     },
     {
-      "commitSha": "9346702a905a145b5a46bce9b6267933f0225073",
-      "branches": 1
-    },
-    {
       "commitSha": "b7bc6ac22ad36b22b75c71c1c708e5586ee9d852",
       "branches": 1
     },
     {
-      "commitSha": "60234e3fa6e57107521e33774614f64a3334d150",
+      "commitSha": "222e2d2e9d14beee31495ab3fe3eb63b60a7dc43",
       "branches": 1
     },
     {
@@ -770,7 +753,7 @@
       "branches": 1
     },
     {
-      "commitSha": "40b68f8a8bb090c723e4086870932cc9dc19a76e",
+      "commitSha": "cf7367cb9704c6f92c2cf8482c24b506d38f10cc",
       "branches": 1
     },
     {
@@ -924,7 +907,7 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "branches": 3,
+      "branches": 2,
       "protectedBranches": 2
     },
     {
@@ -1014,10 +997,6 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
-      "count": 1
-    },
-    {
       "name": "dependabot/npm_and_yarn/major-345d603f8d",
       "count": 1
     },
@@ -1067,6 +1046,10 @@
     },
     {
       "name": "data-format",
+      "count": 1
+    },
+    {
+      "name": "data-modify",
       "count": 1
     }
   ],
