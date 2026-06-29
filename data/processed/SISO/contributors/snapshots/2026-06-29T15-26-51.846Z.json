@@ -22,7 +22,7 @@
       "repo": "bright9th/bright9th",
       "login": "bright9th",
       "type": "User",
-      "contributions": 5,
+      "contributions": 6,
       "avatarUrl": "https://avatars.githubusercontent.com/u/129858054?v=4",
       "htmlUrl": "https://github.com/bright9th",
       "isBot": false
@@ -58,7 +58,7 @@
       "repo": "bright9th/falling-nikochan",
       "login": "na-trium-144",
       "type": "User",
-      "contributions": 860,
+      "contributions": 957,
       "avatarUrl": "https://avatars.githubusercontent.com/u/100704180?v=4",
       "htmlUrl": "https://github.com/na-trium-144",
       "isBot": false
@@ -76,7 +76,7 @@
       "repo": "bright9th/falling-nikochan",
       "login": "Copilot",
       "type": "Bot",
-      "contributions": 19,
+      "contributions": 22,
       "avatarUrl": "https://avatars.githubusercontent.com/in/1143301?v=4",
       "htmlUrl": "https://github.com/apps/copilot-swe-agent",
       "isBot": true
@@ -91,10 +91,19 @@
       "isBot": false
     },
     {
+      "repo": "bright9th/falling-nikochan",
+      "login": "HappyOnigiri",
+      "type": "User",
+      "contributions": 1,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/253838257?v=4",
+      "htmlUrl": "https://github.com/HappyOnigiri",
+      "isBot": false
+    },
+    {
       "repo": "bright9th/gh-activity-vault",
       "login": "github-actions[bot]",
       "type": "Bot",
-      "contributions": 27,
+      "contributions": 37,
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
       "htmlUrl": "https://github.com/apps/github-actions",
       "isBot": true
@@ -112,7 +121,7 @@
       "repo": "bright9th/gh-stats",
       "login": "github-actions[bot]",
       "type": "Bot",
-      "contributions": 28,
+      "contributions": 38,
       "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
       "htmlUrl": "https://github.com/apps/github-actions",
       "isBot": true
@@ -254,18 +263,18 @@
     }
   ],
   "overview": {
-    "totalContributorEntries": 28,
-    "uniqueContributors": 7,
+    "totalContributorEntries": 29,
+    "uniqueContributors": 8,
     "uniqueRepositories": 16,
-    "totalContributions": 2378,
-    "averageContributions": 84.92857142857143
+    "totalContributions": 2500,
+    "averageContributions": 86.20689655172414
   },
   "repos": [
     {
       "repo": "bright9th/falling-nikochan",
-      "contributors": 4,
-      "contributions": 1163,
-      "averageContributions": 290.75
+      "contributors": 5,
+      "contributions": 1264,
+      "averageContributions": 252.8
     },
     {
       "repo": "bright9th/stella-nova-archive",
@@ -292,22 +301,22 @@
       "averageContributions": 19
     },
     {
-      "repo": "bright9th/NovaConverter",
-      "contributors": 1,
-      "contributions": 49,
-      "averageContributions": 49
-    },
-    {
       "repo": "bright9th/gh-stats",
       "contributors": 2,
-      "contributions": 46,
-      "averageContributions": 23
+      "contributions": 56,
+      "averageContributions": 28
     },
     {
       "repo": "bright9th/gh-activity-vault",
       "contributors": 2,
-      "contributions": 45,
-      "averageContributions": 22.5
+      "contributions": 55,
+      "averageContributions": 27.5
+    },
+    {
+      "repo": "bright9th/NovaConverter",
+      "contributors": 1,
+      "contributions": 49,
+      "averageContributions": 49
     },
     {
       "repo": "bright9th/Pal-lane",
@@ -328,16 +337,16 @@
       "averageContributions": 8
     },
     {
-      "repo": "bright9th/DiscordBot_Template_Rust",
+      "repo": "bright9th/bright9th",
       "contributors": 1,
       "contributions": 6,
       "averageContributions": 6
     },
     {
-      "repo": "bright9th/bright9th",
+      "repo": "bright9th/DiscordBot_Template_Rust",
       "contributors": 1,
-      "contributions": 5,
-      "averageContributions": 5
+      "contributions": 6,
+      "averageContributions": 6
     },
     {
       "repo": "bright9th/ShootDaNumba",
@@ -362,16 +371,16 @@
     {
       "login": "na-trium-144",
       "repos": 1,
-      "contributions": 860,
+      "contributions": 957,
       "type": "User",
-      "averageContributionsPerRepo": 860
+      "averageContributionsPerRepo": 957
     },
     {
       "login": "bright9th",
       "repos": 16,
-      "contributions": 778,
+      "contributions": 779,
       "type": "User",
-      "averageContributionsPerRepo": 48.625
+      "averageContributionsPerRepo": 48.6875
     },
     {
       "login": "dependabot[bot]",
@@ -383,9 +392,9 @@
     {
       "login": "github-actions[bot]",
       "repos": 5,
-      "contributions": 253,
+      "contributions": 273,
       "type": "Bot",
-      "averageContributionsPerRepo": 50.6
+      "averageContributionsPerRepo": 54.6
     },
     {
       "login": "SL1900",
@@ -395,6 +404,13 @@
       "averageContributionsPerRepo": 152
     },
     {
+      "login": "Copilot",
+      "repos": 1,
+      "contributions": 22,
+      "type": "Bot",
+      "averageContributionsPerRepo": 22
+    },
+    {
       "login": "actions-user",
       "repos": 1,
       "contributions": 21,
@@ -402,17 +418,17 @@
       "averageContributionsPerRepo": 21
     },
     {
-      "login": "Copilot",
+      "login": "HappyOnigiri",
       "repos": 1,
-      "contributions": 19,
-      "type": "Bot",
-      "averageContributionsPerRepo": 19
+      "contributions": 1,
+      "type": "User",
+      "averageContributionsPerRepo": 1
     }
   ],
   "types": [
     {
       "type": "User",
-      "count": 19
+      "count": 20
     },
     {
       "type": "Bot",
@@ -422,12 +438,12 @@
   "topContributors": [
     {
       "login": "na-trium-144",
-      "contributions": 860,
+      "contributions": 957,
       "repos": 1
     },
     {
       "login": "bright9th",
-      "contributions": 778,
+      "contributions": 779,
       "repos": 16
     },
     {
@@ -437,7 +453,7 @@
     },
     {
       "login": "github-actions[bot]",
-      "contributions": 253,
+      "contributions": 273,
       "repos": 5
     },
     {
@@ -446,21 +462,26 @@
       "repos": 1
     },
     {
+      "login": "Copilot",
+      "contributions": 22,
+      "repos": 1
+    },
+    {
       "login": "actions-user",
       "contributions": 21,
       "repos": 1
     },
     {
-      "login": "Copilot",
-      "contributions": 19,
+      "login": "HappyOnigiri",
+      "contributions": 1,
       "repos": 1
     }
   ],
   "topRepositories": [
     {
       "repo": "bright9th/falling-nikochan",
-      "contributions": 1163,
-      "contributors": 4
+      "contributions": 1264,
+      "contributors": 5
     },
     {
       "repo": "bright9th/stella-nova-archive",
@@ -483,19 +504,19 @@
       "contributors": 3
     },
     {
-      "repo": "bright9th/NovaConverter",
-      "contributions": 49,
-      "contributors": 1
-    },
-    {
       "repo": "bright9th/gh-stats",
-      "contributions": 46,
+      "contributions": 56,
       "contributors": 2
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "contributions": 45,
+      "contributions": 55,
       "contributors": 2
+    },
+    {
+      "repo": "bright9th/NovaConverter",
+      "contributions": 49,
+      "contributors": 1
     },
     {
       "repo": "bright9th/Pal-lane",
@@ -513,13 +534,13 @@
       "contributors": 1
     },
     {
-      "repo": "bright9th/DiscordBot_Template_Rust",
+      "repo": "bright9th/bright9th",
       "contributions": 6,
       "contributors": 1
     },
     {
-      "repo": "bright9th/bright9th",
-      "contributions": 5,
+      "repo": "bright9th/DiscordBot_Template_Rust",
+      "contributions": 6,
       "contributors": 1
     },
     {
