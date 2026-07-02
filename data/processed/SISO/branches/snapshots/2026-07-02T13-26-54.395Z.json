@@ -139,8 +139,8 @@
       "repo": "bright9th/falling-nikochan",
       "name": "main",
       "protected": false,
-      "commitSha": "ef57bcb785b73824e68a048872e0dccaa6ad26a8",
-      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/ef57bcb785b73824e68a048872e0dccaa6ad26a8",
+      "commitSha": "483ece64000dfe25df681b8a1d6e4d664e6ee50d",
+      "commitUrl": "https://api.github.com/repos/bright9th/falling-nikochan/commits/483ece64000dfe25df681b8a1d6e4d664e6ee50d",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -164,10 +164,19 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "name": "dependabot/npm_and_yarn/major-6315faf2cf",
       "protected": false,
-      "commitSha": "84c8ffc9a3f07e465c38112543d8179c42b745b6",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/84c8ffc9a3f07e465c38112543d8179c42b745b6",
+      "commitSha": "aacbd22bd738709b25173afaabbb536f36ef6086",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/aacbd22bd738709b25173afaabbb536f36ef6086",
+      "isDefaultLike": false,
+      "nameLength": 40
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
+      "protected": false,
+      "commitSha": "861f24735347656e2400cf386e1ac2204a70ade0",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/861f24735347656e2400cf386e1ac2204a70ade0",
       "isDefaultLike": false,
       "nameLength": 50
     },
@@ -184,8 +193,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "main",
       "protected": true,
-      "commitSha": "73dce2cdab9e6c61aa209a042389405b3705e616",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/73dce2cdab9e6c61aa209a042389405b3705e616",
+      "commitSha": "cc22c285ecc21f063ba3628de3a9da72bd0f44d4",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/cc22c285ecc21f063ba3628de3a9da72bd0f44d4",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -202,8 +211,8 @@
       "repo": "bright9th/gh-stats",
       "name": "main",
       "protected": true,
-      "commitSha": "d66943b3ce709bd91759dffd1bcc9c812dd0d88f",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/d66943b3ce709bd91759dffd1bcc9c812dd0d88f",
+      "commitSha": "1262aea0871052575d4ff9857022ad8fe01d4511",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/1262aea0871052575d4ff9857022ad8fe01d4511",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -461,12 +470,12 @@
     }
   ],
   "overview": {
-    "totalBranches": 51,
+    "totalBranches": 52,
     "protectedBranches": 15,
-    "unprotectedBranches": 36,
-    "protectionRate": 0.29411764705882354,
+    "unprotectedBranches": 37,
+    "protectionRate": 0.28846153846153844,
     "uniqueRepositories": 16,
-    "uniqueBranchNames": 28
+    "uniqueBranchNames": 29
   },
   "repos": [
     {
@@ -500,6 +509,12 @@
       "protectedRate": 0
     },
     {
+      "repo": "bright9th/gh-activity-vault",
+      "branches": 4,
+      "protectedBranches": 2,
+      "protectedRate": 0.5
+    },
+    {
       "repo": "bright9th/NovaConverter",
       "branches": 4,
       "protectedBranches": 1,
@@ -510,12 +525,6 @@
       "branches": 3,
       "protectedBranches": 3,
       "protectedRate": 1
-    },
-    {
-      "repo": "bright9th/gh-activity-vault",
-      "branches": 3,
-      "protectedBranches": 2,
-      "protectedRate": 0.6666666666666666
     },
     {
       "repo": "bright9th/gh-stats",
@@ -612,7 +621,11 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "name": "dependabot/npm_and_yarn/major-6315faf2cf",
+      "count": 1
+    },
+    {
+      "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
       "count": 1
     },
     {
@@ -742,7 +755,7 @@
       "branches": 1
     },
     {
-      "commitSha": "ef57bcb785b73824e68a048872e0dccaa6ad26a8",
+      "commitSha": "483ece64000dfe25df681b8a1d6e4d664e6ee50d",
       "branches": 1
     },
     {
@@ -754,7 +767,11 @@
       "branches": 1
     },
     {
-      "commitSha": "84c8ffc9a3f07e465c38112543d8179c42b745b6",
+      "commitSha": "aacbd22bd738709b25173afaabbb536f36ef6086",
+      "branches": 1
+    },
+    {
+      "commitSha": "861f24735347656e2400cf386e1ac2204a70ade0",
       "branches": 1
     },
     {
@@ -762,7 +779,7 @@
       "branches": 1
     },
     {
-      "commitSha": "73dce2cdab9e6c61aa209a042389405b3705e616",
+      "commitSha": "cc22c285ecc21f063ba3628de3a9da72bd0f44d4",
       "branches": 1
     },
     {
@@ -770,7 +787,7 @@
       "branches": 1
     },
     {
-      "commitSha": "d66943b3ce709bd91759dffd1bcc9c812dd0d88f",
+      "commitSha": "1262aea0871052575d4ff9857022ad8fe01d4511",
       "branches": 1
     },
     {
@@ -913,6 +930,11 @@
       "protectedBranches": 0
     },
     {
+      "repo": "bright9th/gh-activity-vault",
+      "branches": 4,
+      "protectedBranches": 2
+    },
+    {
       "repo": "bright9th/NovaConverter",
       "branches": 4,
       "protectedBranches": 1
@@ -921,11 +943,6 @@
       "repo": "bright9th/CountLogger",
       "branches": 3,
       "protectedBranches": 3
-    },
-    {
-      "repo": "bright9th/gh-activity-vault",
-      "branches": 3,
-      "protectedBranches": 2
     },
     {
       "repo": "bright9th/gh-stats",
@@ -1014,7 +1031,11 @@
       "count": 1
     },
     {
-      "name": "dependabot/npm_and_yarn/minor-and-patch-1be52da467",
+      "name": "dependabot/npm_and_yarn/major-6315faf2cf",
+      "count": 1
+    },
+    {
+      "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
       "count": 1
     },
     {
@@ -1063,10 +1084,6 @@
     },
     {
       "name": "v5",
-      "count": 1
-    },
-    {
-      "name": "data-format",
       "count": 1
     }
   ],
