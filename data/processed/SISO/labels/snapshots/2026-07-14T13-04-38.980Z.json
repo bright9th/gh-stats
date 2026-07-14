@@ -1035,6 +1035,105 @@
       "nameLength": 7
     },
     {
+      "id": 11506002290,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "bug",
+      "color": "d73a4a",
+      "descriptionLength": 23,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 3
+    },
+    {
+      "id": 11506002297,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "documentation",
+      "color": "0075ca",
+      "descriptionLength": 42,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 13
+    },
+    {
+      "id": 11506002305,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "duplicate",
+      "color": "cfd3d7",
+      "descriptionLength": 41,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 9
+    },
+    {
+      "id": 11506002315,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "enhancement",
+      "color": "a2eeef",
+      "descriptionLength": 22,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 11
+    },
+    {
+      "id": 11506002333,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "good first issue",
+      "color": "7057ff",
+      "descriptionLength": 18,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 16
+    },
+    {
+      "id": 11506002324,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "help wanted",
+      "color": "008672",
+      "descriptionLength": 25,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 11
+    },
+    {
+      "id": 11506002342,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "invalid",
+      "color": "e4e669",
+      "descriptionLength": 23,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 7
+    },
+    {
+      "id": 11506002351,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "question",
+      "color": "d876e3",
+      "descriptionLength": 32,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 8
+    },
+    {
+      "id": 11506002360,
+      "repo": "bright9th/mermaid-viewer",
+      "name": "wontfix",
+      "color": "ffffff",
+      "descriptionLength": 26,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 7
+    },
+    {
       "id": 9855826627,
       "repo": "bright9th/my-react-vite-template",
       "name": "bug",
@@ -1806,12 +1905,12 @@
     }
   ],
   "overview": {
-    "totalLabels": 164,
-    "defaultLabels": 144,
+    "totalLabels": 173,
+    "defaultLabels": 153,
     "customLabels": 20,
-    "labelsWithDescription": 164,
-    "averageDescriptionLength": 28.609756097560975,
-    "uniqueRepositories": 16,
+    "labelsWithDescription": 173,
+    "averageDescriptionLength": 28.578034682080926,
+    "uniqueRepositories": 17,
     "uniqueNames": 23,
     "uniqueColors": 23
   },
@@ -1908,6 +2007,13 @@
       "defaultRate": 1
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "labels": 9,
+      "defaultLabels": 9,
+      "customLabels": 0,
+      "defaultRate": 1
+    },
+    {
       "repo": "bright9th/NovaConverter",
       "labels": 9,
       "defaultLabels": 9,
@@ -1932,39 +2038,39 @@
   "names": [
     {
       "name": "bug",
-      "count": 16
+      "count": 17
     },
     {
       "name": "documentation",
-      "count": 16
+      "count": 17
     },
     {
       "name": "duplicate",
-      "count": 16
+      "count": 17
     },
     {
       "name": "enhancement",
-      "count": 16
+      "count": 17
     },
     {
       "name": "good first issue",
-      "count": 16
+      "count": 17
     },
     {
       "name": "help wanted",
-      "count": 16
+      "count": 17
     },
     {
       "name": "invalid",
-      "count": 16
+      "count": 17
     },
     {
       "name": "question",
-      "count": 16
+      "count": 17
     },
     {
       "name": "wontfix",
-      "count": 16
+      "count": 17
     },
     {
       "name": "dependencies",
@@ -2026,47 +2132,47 @@
   "colors": [
     {
       "color": "d73a4a",
-      "count": 16,
+      "count": 17,
       "isDarkColor": true
     },
     {
       "color": "0075ca",
-      "count": 16,
+      "count": 17,
       "isDarkColor": true
     },
     {
       "color": "cfd3d7",
-      "count": 16,
+      "count": 17,
       "isDarkColor": false
     },
     {
       "color": "a2eeef",
-      "count": 16,
+      "count": 17,
       "isDarkColor": false
     },
     {
       "color": "7057ff",
-      "count": 16,
+      "count": 17,
       "isDarkColor": true
     },
     {
       "color": "008672",
-      "count": 16,
+      "count": 17,
       "isDarkColor": true
     },
     {
       "color": "e4e669",
-      "count": 16,
+      "count": 17,
       "isDarkColor": false
     },
     {
       "color": "d876e3",
-      "count": 16,
+      "count": 17,
       "isDarkColor": false
     },
     {
       "color": "ffffff",
-      "count": 16,
+      "count": 17,
       "isDarkColor": false
     },
     {
@@ -2207,6 +2313,11 @@
       "customLabels": 0
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "labels": 9,
+      "customLabels": 0
+    },
+    {
       "repo": "bright9th/NovaConverter",
       "labels": 9,
       "customLabels": 0
@@ -2225,39 +2336,39 @@
   "topLabelNames": [
     {
       "name": "bug",
-      "count": 16
+      "count": 17
     },
     {
       "name": "documentation",
-      "count": 16
+      "count": 17
     },
     {
       "name": "duplicate",
-      "count": 16
+      "count": 17
     },
     {
       "name": "enhancement",
-      "count": 16
+      "count": 17
     },
     {
       "name": "good first issue",
-      "count": 16
+      "count": 17
     },
     {
       "name": "help wanted",
-      "count": 16
+      "count": 17
     },
     {
       "name": "invalid",
-      "count": 16
+      "count": 17
     },
     {
       "name": "question",
-      "count": 16
+      "count": 17
     },
     {
       "name": "wontfix",
-      "count": 16
+      "count": 17
     },
     {
       "name": "dependencies",
@@ -2403,6 +2514,11 @@
       "descriptionLength": 42
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "name": "documentation",
+      "descriptionLength": 42
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "name": "documentation",
       "descriptionLength": 42
@@ -2434,11 +2550,6 @@
     },
     {
       "repo": "bright9th/_godot_template",
-      "name": "duplicate",
-      "descriptionLength": 41
-    },
-    {
-      "repo": "bright9th/AronaMathQuestions",
       "name": "duplicate",
       "descriptionLength": 41
     }
