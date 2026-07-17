@@ -1,6 +1,14 @@
 {
   "stats": [
     {
+      "id": 226408503,
+      "login": "chrisipanaque",
+      "profileUrl": "https://github.com/chrisipanaque",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/226408503?v=4",
+      "loginLength": 13,
+      "startingCharacter": "c"
+    },
+    {
       "id": 161703412,
       "login": "mutelnwza",
       "profileUrl": "https://github.com/mutelnwza",
@@ -10,19 +18,28 @@
     }
   ],
   "overview": {
-    "totalFollowers": 1,
-    "averageLoginLength": 9
+    "totalFollowers": 2,
+    "averageLoginLength": 11
   },
   "loginLengthDistribution": {
-    "9": 1
+    "9": 1,
+    "13": 1
   },
   "startingCharacterDistribution": [
+    {
+      "character": "c",
+      "count": 1
+    },
     {
       "character": "m",
       "count": 1
     }
   ],
   "topLongestLogins": [
+    {
+      "login": "chrisipanaque",
+      "loginLength": 13
+    },
     {
       "login": "mutelnwza",
       "loginLength": 9
