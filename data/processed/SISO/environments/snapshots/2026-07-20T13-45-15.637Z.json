@@ -6,7 +6,18 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 312,
+      "ageDays": 322,
+      "updateDurationDays": 0,
+      "isProtected": true,
+      "nameLength": 12
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
+      "id": 18056893822,
+      "name": "github-pages",
+      "protectionRules": 1,
+      "createdYear": 2026,
+      "ageDays": 7,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
@@ -17,7 +28,7 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 203,
+      "ageDays": 213,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
@@ -28,7 +39,7 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 326,
+      "ageDays": 336,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
@@ -39,25 +50,31 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 231,
+      "ageDays": 241,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
     }
   ],
   "overview": {
-    "totalEnvironments": 4,
-    "protectedEnvironments": 4,
+    "totalEnvironments": 5,
+    "protectedEnvironments": 5,
     "unprotectedEnvironments": 0,
-    "totalProtectionRules": 4,
-    "averageEnvironmentAgeDays": 268,
+    "totalProtectionRules": 5,
+    "averageEnvironmentAgeDays": 223.8,
     "averageUpdateDurationDays": 0,
-    "uniqueRepositories": 4,
+    "uniqueRepositories": 5,
     "uniqueEnvironmentNames": 1
   },
   "repos": [
     {
       "repo": "bright9th/AronaMathQuestions",
+      "environments": 1,
+      "protectionRules": 1,
+      "averageProtectionRules": 1
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
       "environments": 1,
       "protectionRules": 1,
       "averageProtectionRules": 1
@@ -84,18 +101,27 @@
   "environmentNames": [
     {
       "name": "github-pages",
-      "count": 4
+      "count": 5
     }
   ],
   "creationTimeline": [
     {
       "year": 2025,
       "environments": 4
+    },
+    {
+      "year": 2026,
+      "environments": 1
     }
   ],
   "topRepositories": [
     {
       "repo": "bright9th/AronaMathQuestions",
+      "environments": 1,
+      "protectionRules": 1
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
       "environments": 1,
       "protectionRules": 1
     },
@@ -118,6 +144,11 @@
   "mostProtectedEnvironments": [
     {
       "repo": "bright9th/AronaMathQuestions",
+      "name": "github-pages",
+      "protectionRules": 1
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
       "name": "github-pages",
       "protectionRules": 1
     },
