@@ -166,8 +166,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "dependabot/npm_and_yarn/major-05e7a1191d",
       "protected": false,
-      "commitSha": "ccc84e26fe9f5f3a4b703bfacbe8885f58f38ec2",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/ccc84e26fe9f5f3a4b703bfacbe8885f58f38ec2",
+      "commitSha": "6ca674c023d03b64edf2a361f3f93023f7b42511",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/6ca674c023d03b64edf2a361f3f93023f7b42511",
       "isDefaultLike": false,
       "nameLength": 40
     },
@@ -175,8 +175,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "dependabot/npm_and_yarn/minor-and-patch-9d3e3e4e6f",
       "protected": false,
-      "commitSha": "d3eacadead28122d08ac125b8879f4cccfd961cd",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/d3eacadead28122d08ac125b8879f4cccfd961cd",
+      "commitSha": "667849a96870a14979c43b5814ea3181fc9ad64d",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/667849a96870a14979c43b5814ea3181fc9ad64d",
       "isDefaultLike": false,
       "nameLength": 50
     },
@@ -193,8 +193,8 @@
       "repo": "bright9th/gh-activity-vault",
       "name": "main",
       "protected": true,
-      "commitSha": "74f521ff64ecd68eb98be085583770a0b844fe48",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/74f521ff64ecd68eb98be085583770a0b844fe48",
+      "commitSha": "a140d6d6f4072dd45be474f40256db8a47c2ab6c",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-activity-vault/commits/a140d6d6f4072dd45be474f40256db8a47c2ab6c",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -211,8 +211,8 @@
       "repo": "bright9th/gh-stats",
       "name": "main",
       "protected": true,
-      "commitSha": "152b937b8850d7be6def7a3732a7529dbced21a9",
-      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/152b937b8850d7be6def7a3732a7529dbced21a9",
+      "commitSha": "795a907e4071787dbf59440afe2cb2a680f387af",
+      "commitUrl": "https://api.github.com/repos/bright9th/gh-stats/commits/795a907e4071787dbf59440afe2cb2a680f387af",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -231,6 +231,33 @@
       "protected": true,
       "commitSha": "eb19c091c373e6e37afd7ae20503b11c0e9c746b",
       "commitUrl": "https://api.github.com/repos/bright9th/JavaGame_GroundZero/commits/eb19c091c373e6e37afd7ae20503b11c0e9c746b",
+      "isDefaultLike": true,
+      "nameLength": 4
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
+      "name": "dev",
+      "protected": true,
+      "commitSha": "74ff1f4d3874c600356f3eab22e9f86426ff529f",
+      "commitUrl": "https://api.github.com/repos/bright9th/mermaid-viewer/commits/74ff1f4d3874c600356f3eab22e9f86426ff529f",
+      "isDefaultLike": false,
+      "nameLength": 3
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
+      "name": "gh-pages",
+      "protected": false,
+      "commitSha": "7f981194232b4fee8de7556d9e0d114105a9101e",
+      "commitUrl": "https://api.github.com/repos/bright9th/mermaid-viewer/commits/7f981194232b4fee8de7556d9e0d114105a9101e",
+      "isDefaultLike": false,
+      "nameLength": 8
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
+      "name": "main",
+      "protected": true,
+      "commitSha": "ba3f1a0cda06cf92f3f6a07db084da2323e656e3",
+      "commitUrl": "https://api.github.com/repos/bright9th/mermaid-viewer/commits/ba3f1a0cda06cf92f3f6a07db084da2323e656e3",
       "isDefaultLike": true,
       "nameLength": 4
     },
@@ -470,11 +497,11 @@
     }
   ],
   "overview": {
-    "totalBranches": 52,
-    "protectedBranches": 15,
-    "unprotectedBranches": 37,
-    "protectionRate": 0.28846153846153844,
-    "uniqueRepositories": 16,
+    "totalBranches": 55,
+    "protectedBranches": 17,
+    "unprotectedBranches": 38,
+    "protectionRate": 0.3090909090909091,
+    "uniqueRepositories": 17,
     "uniqueBranchNames": 30
   },
   "repos": [
@@ -525,6 +552,12 @@
       "branches": 3,
       "protectedBranches": 3,
       "protectedRate": 1
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
+      "branches": 3,
+      "protectedBranches": 2,
+      "protectedRate": 0.6666666666666666
     },
     {
       "repo": "bright9th/gh-stats",
@@ -578,15 +611,15 @@
   "branchNames": [
     {
       "name": "main",
-      "count": 16
+      "count": 17
     },
     {
       "name": "dev",
-      "count": 5
+      "count": 6
     },
     {
       "name": "gh-pages",
-      "count": 4
+      "count": 5
     },
     {
       "name": "dependabot/npm_and_yarn/major-24dd68e4ac",
@@ -771,11 +804,11 @@
       "branches": 1
     },
     {
-      "commitSha": "ccc84e26fe9f5f3a4b703bfacbe8885f58f38ec2",
+      "commitSha": "6ca674c023d03b64edf2a361f3f93023f7b42511",
       "branches": 1
     },
     {
-      "commitSha": "d3eacadead28122d08ac125b8879f4cccfd961cd",
+      "commitSha": "667849a96870a14979c43b5814ea3181fc9ad64d",
       "branches": 1
     },
     {
@@ -783,7 +816,7 @@
       "branches": 1
     },
     {
-      "commitSha": "74f521ff64ecd68eb98be085583770a0b844fe48",
+      "commitSha": "a140d6d6f4072dd45be474f40256db8a47c2ab6c",
       "branches": 1
     },
     {
@@ -791,7 +824,7 @@
       "branches": 1
     },
     {
-      "commitSha": "152b937b8850d7be6def7a3732a7529dbced21a9",
+      "commitSha": "795a907e4071787dbf59440afe2cb2a680f387af",
       "branches": 1
     },
     {
@@ -800,6 +833,18 @@
     },
     {
       "commitSha": "eb19c091c373e6e37afd7ae20503b11c0e9c746b",
+      "branches": 1
+    },
+    {
+      "commitSha": "74ff1f4d3874c600356f3eab22e9f86426ff529f",
+      "branches": 1
+    },
+    {
+      "commitSha": "7f981194232b4fee8de7556d9e0d114105a9101e",
+      "branches": 1
+    },
+    {
+      "commitSha": "ba3f1a0cda06cf92f3f6a07db084da2323e656e3",
       "branches": 1
     },
     {
@@ -949,6 +994,11 @@
       "protectedBranches": 3
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "branches": 3,
+      "protectedBranches": 2
+    },
+    {
       "repo": "bright9th/gh-stats",
       "branches": 2,
       "protectedBranches": 2
@@ -992,15 +1042,15 @@
   "topBranchNames": [
     {
       "name": "main",
-      "count": 16
+      "count": 17
     },
     {
       "name": "dev",
-      "count": 5
+      "count": 6
     },
     {
       "name": "gh-pages",
-      "count": 4
+      "count": 5
     },
     {
       "name": "dependabot/npm_and_yarn/major-24dd68e4ac",
