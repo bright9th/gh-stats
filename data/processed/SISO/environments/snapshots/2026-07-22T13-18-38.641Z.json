@@ -6,7 +6,18 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 314,
+      "ageDays": 324,
+      "updateDurationDays": 0,
+      "isProtected": true,
+      "nameLength": 12
+    },
+    {
+      "repo": "bright9th/mermaid-viewer",
+      "id": 18056893822,
+      "name": "github-pages",
+      "protectionRules": 1,
+      "createdYear": 2026,
+      "ageDays": 9,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
@@ -17,7 +28,7 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 205,
+      "ageDays": 215,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
@@ -28,7 +39,7 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 328,
+      "ageDays": 338,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
@@ -39,20 +50,31 @@
       "name": "github-pages",
       "protectionRules": 1,
       "createdYear": 2025,
-      "ageDays": 232,
+      "ageDays": 242,
+      "updateDurationDays": 0,
+      "isProtected": true,
+      "nameLength": 12
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "id": 18499012564,
+      "name": "github-pages",
+      "protectionRules": 1,
+      "createdYear": 2026,
+      "ageDays": 1,
       "updateDurationDays": 0,
       "isProtected": true,
       "nameLength": 12
     }
   ],
   "overview": {
-    "totalEnvironments": 4,
-    "protectedEnvironments": 4,
+    "totalEnvironments": 6,
+    "protectedEnvironments": 6,
     "unprotectedEnvironments": 0,
-    "totalProtectionRules": 4,
-    "averageEnvironmentAgeDays": 269.75,
+    "totalProtectionRules": 6,
+    "averageEnvironmentAgeDays": 188.16666666666666,
     "averageUpdateDurationDays": 0,
-    "uniqueRepositories": 4,
+    "uniqueRepositories": 6,
     "uniqueEnvironmentNames": 1
   },
   "repos": [
@@ -63,6 +85,12 @@
       "averageProtectionRules": 1
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "environments": 1,
+      "protectionRules": 1,
+      "averageProtectionRules": 1
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "environments": 1,
       "protectionRules": 1,
@@ -79,18 +107,28 @@
       "environments": 1,
       "protectionRules": 1,
       "averageProtectionRules": 1
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "environments": 1,
+      "protectionRules": 1,
+      "averageProtectionRules": 1
     }
   ],
   "environmentNames": [
     {
       "name": "github-pages",
-      "count": 4
+      "count": 6
     }
   ],
   "creationTimeline": [
     {
       "year": 2025,
       "environments": 4
+    },
+    {
+      "year": 2026,
+      "environments": 2
     }
   ],
   "topRepositories": [
@@ -100,6 +138,11 @@
       "protectionRules": 1
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "environments": 1,
+      "protectionRules": 1
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "environments": 1,
       "protectionRules": 1
@@ -111,6 +154,11 @@
     },
     {
       "repo": "bright9th/stella-nova-archive",
+      "environments": 1,
+      "protectionRules": 1
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
       "environments": 1,
       "protectionRules": 1
     }
@@ -122,6 +170,11 @@
       "protectionRules": 1
     },
     {
+      "repo": "bright9th/mermaid-viewer",
+      "name": "github-pages",
+      "protectionRules": 1
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "name": "github-pages",
       "protectionRules": 1
@@ -133,6 +186,11 @@
     },
     {
       "repo": "bright9th/stella-nova-archive",
+      "name": "github-pages",
+      "protectionRules": 1
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
       "name": "github-pages",
       "protectionRules": 1
     }

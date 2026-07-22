@@ -1382,5 +1382,93 @@
     "color": "bcbcbc",
     "description": "GitHub workflows",
     "is_default": false
+  },
+  {
+    "id": 11587007989,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "bug",
+    "color": "d73a4a",
+    "description": "Something isn't working",
+    "is_default": true
+  },
+  {
+    "id": 11587029627,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "dependencies",
+    "color": "0366d6",
+    "description": "Pull requests that update a dependency file",
+    "is_default": false
+  },
+  {
+    "id": 11587008002,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "documentation",
+    "color": "0075ca",
+    "description": "Improvements or additions to documentation",
+    "is_default": true
+  },
+  {
+    "id": 11587008016,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "description": "This issue or pull request already exists",
+    "is_default": true
+  },
+  {
+    "id": 11587008032,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "description": "New feature or request",
+    "is_default": true
+  },
+  {
+    "id": 11587008049,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "good first issue",
+    "color": "7057ff",
+    "description": "Good for newcomers",
+    "is_default": true
+  },
+  {
+    "id": 11587008041,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "help wanted",
+    "color": "008672",
+    "description": "Extra attention is needed",
+    "is_default": true
+  },
+  {
+    "id": 11587008057,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "invalid",
+    "color": "e4e669",
+    "description": "This doesn't seem right",
+    "is_default": true
+  },
+  {
+    "id": 11587029633,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "javascript",
+    "color": "168700",
+    "description": "Pull requests that update javascript code",
+    "is_default": false
+  },
+  {
+    "id": 11587008065,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "question",
+    "color": "d876e3",
+    "description": "Further information is requested",
+    "is_default": true
+  },
+  {
+    "id": 11587008073,
+    "repo": "bright9th/Triangle-Chan",
+    "name": "wontfix",
+    "color": "ffffff",
+    "description": "This will not be worked on",
+    "is_default": true
   }
 ]
