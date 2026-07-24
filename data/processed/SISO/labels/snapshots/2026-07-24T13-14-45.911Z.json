@@ -1902,15 +1902,136 @@
       "isDefault": false,
       "isDarkColor": false,
       "nameLength": 8
+    },
+    {
+      "id": 11587007989,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "bug",
+      "color": "d73a4a",
+      "descriptionLength": 23,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 3
+    },
+    {
+      "id": 11587029627,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "dependencies",
+      "color": "0366d6",
+      "descriptionLength": 43,
+      "hasDescription": true,
+      "isDefault": false,
+      "isDarkColor": true,
+      "nameLength": 12
+    },
+    {
+      "id": 11587008002,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "documentation",
+      "color": "0075ca",
+      "descriptionLength": 42,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 13
+    },
+    {
+      "id": 11587008016,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "duplicate",
+      "color": "cfd3d7",
+      "descriptionLength": 41,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 9
+    },
+    {
+      "id": 11587008032,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "enhancement",
+      "color": "a2eeef",
+      "descriptionLength": 22,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 11
+    },
+    {
+      "id": 11587008049,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "good first issue",
+      "color": "7057ff",
+      "descriptionLength": 18,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 16
+    },
+    {
+      "id": 11587008041,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "help wanted",
+      "color": "008672",
+      "descriptionLength": 25,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": true,
+      "nameLength": 11
+    },
+    {
+      "id": 11587008057,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "invalid",
+      "color": "e4e669",
+      "descriptionLength": 23,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 7
+    },
+    {
+      "id": 11587029633,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "javascript",
+      "color": "168700",
+      "descriptionLength": 41,
+      "hasDescription": true,
+      "isDefault": false,
+      "isDarkColor": true,
+      "nameLength": 10
+    },
+    {
+      "id": 11587008065,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "question",
+      "color": "d876e3",
+      "descriptionLength": 32,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 8
+    },
+    {
+      "id": 11587008073,
+      "repo": "bright9th/Triangle-Chan",
+      "name": "wontfix",
+      "color": "ffffff",
+      "descriptionLength": 26,
+      "hasDescription": true,
+      "isDefault": true,
+      "isDarkColor": false,
+      "nameLength": 7
     }
   ],
   "overview": {
-    "totalLabels": 173,
-    "defaultLabels": 153,
-    "customLabels": 20,
-    "labelsWithDescription": 173,
-    "averageDescriptionLength": 28.578034682080926,
-    "uniqueRepositories": 17,
+    "totalLabels": 184,
+    "defaultLabels": 162,
+    "customLabels": 22,
+    "labelsWithDescription": 184,
+    "averageDescriptionLength": 28.695652173913043,
+    "uniqueRepositories": 18,
     "uniqueNames": 23,
     "uniqueColors": 23
   },
@@ -1945,6 +2066,13 @@
     },
     {
       "repo": "bright9th/my-react-vite-template",
+      "labels": 11,
+      "defaultLabels": 9,
+      "customLabels": 2,
+      "defaultRate": 0.8181818181818182
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
       "labels": 11,
       "defaultLabels": 9,
       "customLabels": 2,
@@ -2038,47 +2166,47 @@
   "names": [
     {
       "name": "bug",
-      "count": 17
+      "count": 18
     },
     {
       "name": "documentation",
-      "count": 17
+      "count": 18
     },
     {
       "name": "duplicate",
-      "count": 17
+      "count": 18
     },
     {
       "name": "enhancement",
-      "count": 17
+      "count": 18
     },
     {
       "name": "good first issue",
-      "count": 17
+      "count": 18
     },
     {
       "name": "help wanted",
-      "count": 17
+      "count": 18
     },
     {
       "name": "invalid",
-      "count": 17
+      "count": 18
     },
     {
       "name": "question",
-      "count": 17
+      "count": 18
     },
     {
       "name": "wontfix",
-      "count": 17
+      "count": 18
     },
     {
       "name": "dependencies",
-      "count": 4
+      "count": 5
     },
     {
       "name": "javascript",
-      "count": 4
+      "count": 5
     },
     {
       "name": "backend",
@@ -2132,57 +2260,57 @@
   "colors": [
     {
       "color": "d73a4a",
-      "count": 17,
+      "count": 18,
       "isDarkColor": true
     },
     {
       "color": "0075ca",
-      "count": 17,
+      "count": 18,
       "isDarkColor": true
     },
     {
       "color": "cfd3d7",
-      "count": 17,
+      "count": 18,
       "isDarkColor": false
     },
     {
       "color": "a2eeef",
-      "count": 17,
+      "count": 18,
       "isDarkColor": false
     },
     {
       "color": "7057ff",
-      "count": 17,
+      "count": 18,
       "isDarkColor": true
     },
     {
       "color": "008672",
-      "count": 17,
+      "count": 18,
       "isDarkColor": true
     },
     {
       "color": "e4e669",
-      "count": 17,
+      "count": 18,
       "isDarkColor": false
     },
     {
       "color": "d876e3",
-      "count": 17,
+      "count": 18,
       "isDarkColor": false
     },
     {
       "color": "ffffff",
-      "count": 17,
+      "count": 18,
       "isDarkColor": false
     },
     {
       "color": "0366d6",
-      "count": 4,
+      "count": 5,
       "isDarkColor": true
     },
     {
       "color": "168700",
-      "count": 4,
+      "count": 5,
       "isDarkColor": true
     },
     {
@@ -2273,6 +2401,11 @@
       "customLabels": 2
     },
     {
+      "repo": "bright9th/Triangle-Chan",
+      "labels": 11,
+      "customLabels": 2
+    },
+    {
       "repo": "bright9th/_godot_template",
       "labels": 9,
       "customLabels": 0
@@ -2336,47 +2469,47 @@
   "topLabelNames": [
     {
       "name": "bug",
-      "count": 17
+      "count": 18
     },
     {
       "name": "documentation",
-      "count": 17
+      "count": 18
     },
     {
       "name": "duplicate",
-      "count": 17
+      "count": 18
     },
     {
       "name": "enhancement",
-      "count": 17
+      "count": 18
     },
     {
       "name": "good first issue",
-      "count": 17
+      "count": 18
     },
     {
       "name": "help wanted",
-      "count": 17
+      "count": 18
     },
     {
       "name": "invalid",
-      "count": 17
+      "count": 18
     },
     {
       "name": "question",
-      "count": 17
+      "count": 18
     },
     {
       "name": "wontfix",
-      "count": 17
+      "count": 18
     },
     {
       "name": "dependencies",
-      "count": 4
+      "count": 5
     },
     {
       "name": "javascript",
-      "count": 4
+      "count": 5
     },
     {
       "name": "backend",
@@ -2464,6 +2597,11 @@
       "descriptionLength": 43
     },
     {
+      "repo": "bright9th/Triangle-Chan",
+      "name": "dependencies",
+      "descriptionLength": 43
+    },
+    {
       "repo": "bright9th/_godot_template",
       "name": "documentation",
       "descriptionLength": 42
@@ -2547,11 +2685,6 @@
       "repo": "bright9th/stella-nova-archive-db",
       "name": "documentation",
       "descriptionLength": 42
-    },
-    {
-      "repo": "bright9th/_godot_template",
-      "name": "duplicate",
-      "descriptionLength": 41
     }
   ]
 }
