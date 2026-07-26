@@ -224,14 +224,34 @@
       "repo": "bright9th/stella-nova-archive",
       "language": "HTML",
       "bytes": 383
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "language": "TypeScript",
+      "bytes": 17467
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "language": "CSS",
+      "bytes": 1262
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "language": "JavaScript",
+      "bytes": 616
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "language": "HTML",
+      "bytes": 369
     }
   ],
   "overview": {
-    "totalLanguageEntries": 45,
+    "totalLanguageEntries": 49,
     "uniqueLanguages": 15,
-    "uniqueRepositories": 15,
-    "totalBytes": 2491953,
-    "averageBytes": 55376.73333333333
+    "uniqueRepositories": 16,
+    "totalBytes": 2511667,
+    "averageBytes": 51258.510204081635
   },
   "repos": [
     {
@@ -301,6 +321,12 @@
       "averageBytesPerLanguage": 20720
     },
     {
+      "repo": "bright9th/Triangle-Chan",
+      "totalBytes": 19714,
+      "languages": 4,
+      "averageBytesPerLanguage": 4928.5
+    },
+    {
       "repo": "bright9th/my-react-vite-template",
       "totalBytes": 16454,
       "languages": 4,
@@ -328,200 +354,200 @@
   "languages": [
     {
       "language": "TypeScript",
-      "repos": 8,
-      "bytes": 1805462,
-      "byteShare": 0.7245168749169828,
-      "averageBytesPerRepo": 225682.75
+      "repos": 9,
+      "bytes": 1822929,
+      "byteShare": 0.7257845088540797,
+      "averageBytesPerRepo": 202547.66666666666
     },
     {
       "language": "JavaScript",
-      "repos": 8,
-      "bytes": 111070,
-      "byteShare": 0.04457146663681057,
-      "averageBytesPerRepo": 13883.75
+      "repos": 9,
+      "bytes": 111686,
+      "byteShare": 0.04446688195529105,
+      "averageBytesPerRepo": 12409.555555555555
     },
     {
       "language": "Rust",
       "repos": 2,
       "bytes": 106056,
-      "byteShare": 0.042559390165063306,
+      "byteShare": 0.04222534277035929,
       "averageBytesPerRepo": 53028
     },
     {
       "language": "MDX",
       "repos": 1,
       "bytes": 89852,
-      "byteShare": 0.03605685982038987,
+      "byteShare": 0.035773850594047696,
       "averageBytesPerRepo": 89852
     },
     {
       "language": "GDScript",
       "repos": 2,
       "bytes": 89198,
-      "byteShare": 0.035794415063205444,
+      "byteShare": 0.035513465758000566,
       "averageBytesPerRepo": 44599
     },
     {
       "language": "ShaderLab",
       "repos": 1,
       "bytes": 80492,
-      "byteShare": 0.0323007697175669,
+      "byteShare": 0.032047241931354754,
       "averageBytesPerRepo": 80492
     },
     {
       "language": "Svelte",
       "repos": 2,
       "bytes": 66731,
-      "byteShare": 0.02677859494139737,
+      "byteShare": 0.02656841054168407,
       "averageBytesPerRepo": 33365.5
     },
     {
       "language": "CSS",
-      "repos": 6,
-      "bytes": 47296,
-      "byteShare": 0.018979491186230237,
-      "averageBytesPerRepo": 7882.666666666667
+      "repos": 7,
+      "bytes": 48558,
+      "byteShare": 0.019332976863573076,
+      "averageBytesPerRepo": 6936.857142857143
     },
     {
       "language": "C#",
       "repos": 1,
       "bytes": 36333,
-      "byteShare": 0.014580130524131074,
+      "byteShare": 0.014465691510857132,
       "averageBytesPerRepo": 36333
     },
     {
       "language": "HTML",
-      "repos": 9,
-      "bytes": 20725,
-      "byteShare": 0.008316770019338246,
-      "averageBytesPerRepo": 2302.777777777778
+      "repos": 10,
+      "bytes": 21094,
+      "byteShare": 0.008398406317397968,
+      "averageBytesPerRepo": 2109.4
     },
     {
       "language": "Java",
       "repos": 1,
       "bytes": 20720,
-      "byteShare": 0.008314763560949985,
+      "byteShare": 0.008249501227670706,
       "averageBytesPerRepo": 20720
     },
     {
       "language": "HLSL",
       "repos": 1,
       "bytes": 13994,
-      "byteShare": 0.005615675737062457,
+      "byteShare": 0.005571598464286866,
       "averageBytesPerRepo": 13994
     },
     {
       "language": "SCSS",
       "repos": 1,
       "bytes": 1770,
-      "byteShare": 0.0007102862694440866,
+      "byteShare": 0.0007047112535220633,
       "averageBytesPerRepo": 1770
     },
     {
       "language": "Dockerfile",
       "repos": 1,
       "bytes": 1493,
-      "byteShare": 0.0005991284747344754,
+      "byteShare": 0.000594425933055616,
       "averageBytesPerRepo": 1493
     },
     {
       "language": "GDShader",
       "repos": 1,
       "bytes": 761,
-      "byteShare": 0.00030538296669319206,
+      "byteShare": 0.00030298602481937295,
       "averageBytesPerRepo": 761
     }
   ],
   "topLanguages": [
     {
       "language": "TypeScript",
-      "bytes": 1805462,
-      "repos": 8,
-      "byteShare": 0.7245168749169828
+      "bytes": 1822929,
+      "repos": 9,
+      "byteShare": 0.7257845088540797
     },
     {
       "language": "JavaScript",
-      "bytes": 111070,
-      "repos": 8,
-      "byteShare": 0.04457146663681057
+      "bytes": 111686,
+      "repos": 9,
+      "byteShare": 0.04446688195529105
     },
     {
       "language": "Rust",
       "bytes": 106056,
       "repos": 2,
-      "byteShare": 0.042559390165063306
+      "byteShare": 0.04222534277035929
     },
     {
       "language": "MDX",
       "bytes": 89852,
       "repos": 1,
-      "byteShare": 0.03605685982038987
+      "byteShare": 0.035773850594047696
     },
     {
       "language": "GDScript",
       "bytes": 89198,
       "repos": 2,
-      "byteShare": 0.035794415063205444
+      "byteShare": 0.035513465758000566
     },
     {
       "language": "ShaderLab",
       "bytes": 80492,
       "repos": 1,
-      "byteShare": 0.0323007697175669
+      "byteShare": 0.032047241931354754
     },
     {
       "language": "Svelte",
       "bytes": 66731,
       "repos": 2,
-      "byteShare": 0.02677859494139737
+      "byteShare": 0.02656841054168407
     },
     {
       "language": "CSS",
-      "bytes": 47296,
-      "repos": 6,
-      "byteShare": 0.018979491186230237
+      "bytes": 48558,
+      "repos": 7,
+      "byteShare": 0.019332976863573076
     },
     {
       "language": "C#",
       "bytes": 36333,
       "repos": 1,
-      "byteShare": 0.014580130524131074
+      "byteShare": 0.014465691510857132
     },
     {
       "language": "HTML",
-      "bytes": 20725,
-      "repos": 9,
-      "byteShare": 0.008316770019338246
+      "bytes": 21094,
+      "repos": 10,
+      "byteShare": 0.008398406317397968
     },
     {
       "language": "Java",
       "bytes": 20720,
       "repos": 1,
-      "byteShare": 0.008314763560949985
+      "byteShare": 0.008249501227670706
     },
     {
       "language": "HLSL",
       "bytes": 13994,
       "repos": 1,
-      "byteShare": 0.005615675737062457
+      "byteShare": 0.005571598464286866
     },
     {
       "language": "SCSS",
       "bytes": 1770,
       "repos": 1,
-      "byteShare": 0.0007102862694440866
+      "byteShare": 0.0007047112535220633
     },
     {
       "language": "Dockerfile",
       "bytes": 1493,
       "repos": 1,
-      "byteShare": 0.0005991284747344754
+      "byteShare": 0.000594425933055616
     },
     {
       "language": "GDShader",
       "bytes": 761,
       "repos": 1,
-      "byteShare": 0.00030538296669319206
+      "byteShare": 0.00030298602481937295
     }
   ],
   "topRepositories": [
@@ -579,6 +605,11 @@
       "repo": "bright9th/JavaGame_GroundZero",
       "totalBytes": 20720,
       "languages": 1
+    },
+    {
+      "repo": "bright9th/Triangle-Chan",
+      "totalBytes": 19714,
+      "languages": 4
     },
     {
       "repo": "bright9th/my-react-vite-template",

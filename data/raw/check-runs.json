@@ -1848,48 +1848,6 @@
     "external_id": "cd18e6c3-9da9-5b0a-9a86-3b7db6cf7e53"
   },
   {
-    "id": 58403899076,
-    "repo": "bright9th/stella-nova-archive",
-    "sha": "f7f9e16818c43a18b83b37e6b87ad0b435020dbf",
-    "name": "bump-version",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2025-12-18T08:11:46Z",
-    "completed_at": "2025-12-18T08:11:56Z",
-    "html_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20330335867/job/58403899076",
-    "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20330335867/job/58403899076",
-    "app": "GitHub Actions",
-    "external_id": "1127c962-5907-5fa1-af60-c99874ef1f7f"
-  },
-  {
-    "id": 58403899302,
-    "repo": "bright9th/stella-nova-archive",
-    "sha": "f7f9e16818c43a18b83b37e6b87ad0b435020dbf",
-    "name": "Manual Update",
-    "status": "completed",
-    "conclusion": "skipped",
-    "started_at": "2025-12-18T08:11:43Z",
-    "completed_at": "2025-12-18T08:11:43Z",
-    "html_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20330335877/job/58403899302",
-    "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20330335877/job/58403899302",
-    "app": "GitHub Actions",
-    "external_id": "6ea7ee46-6610-582d-8f21-eebeadf8f3ca"
-  },
-  {
-    "id": 58403906927,
-    "repo": "bright9th/stella-nova-archive",
-    "sha": "f7f9e16818c43a18b83b37e6b87ad0b435020dbf",
-    "name": "Dependabot Auto-Update",
-    "status": "completed",
-    "conclusion": "skipped",
-    "started_at": "2025-12-18T08:11:49Z",
-    "completed_at": "2025-12-18T08:11:43Z",
-    "html_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20330335877/job/58403906927",
-    "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20330335877/job/58403906927",
-    "app": "GitHub Actions",
-    "external_id": "fae871f0-b2e1-52a6-bc51-dfb7c4fe8351"
-  },
-  {
     "id": 58404586799,
     "repo": "bright9th/stella-nova-archive",
     "sha": "aa3050c1d260a979a71023bf80fd9b6756d44b60",
@@ -5556,20 +5514,6 @@
     "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20613590941/job/59202288683",
     "app": "GitHub Actions",
     "external_id": "95022b80-7384-5edf-ad86-164c6812ab47"
-  },
-  {
-    "id": 59202395842,
-    "repo": "bright9th/stella-nova-archive",
-    "sha": "f8c5a8a9363d5d66a7bea29b1deadccbd332d602",
-    "name": "changelog",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2025-12-31T06:32:03Z",
-    "completed_at": "2025-12-31T06:32:09Z",
-    "html_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20613632010/job/59202395842",
-    "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20613632010/job/59202395842",
-    "app": "GitHub Actions",
-    "external_id": "67491314-40b9-5c6a-8552-586ae40f9c80"
   },
   {
     "id": 59202420619,
@@ -9308,20 +9252,6 @@
     "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20894375198/job/60030513390",
     "app": "GitHub Actions",
     "external_id": "46c69505-4367-50fb-83d2-a72691ef5dbc"
-  },
-  {
-    "id": 60030661659,
-    "repo": "bright9th/stella-nova-archive",
-    "sha": "f87b84c364549985870f4b99e5b5b405ab6babad",
-    "name": "changelog",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2026-01-11T11:32:32Z",
-    "completed_at": "2026-01-11T11:32:39Z",
-    "html_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20894436792/job/60030661659",
-    "details_url": "https://github.com/bright9th/stella-nova-archive/actions/runs/20894436792/job/60030661659",
-    "app": "GitHub Actions",
-    "external_id": "9f64554a-6a91-5369-931e-a6f91df693a5"
   },
   {
     "id": 60030768153,
@@ -23650,13 +23580,41 @@
     "repo": "bright9th/gh-activity-vault",
     "sha": "6be910d76d18f8e7f07a2ea503c403f660028086",
     "name": "sync",
-    "status": "in_progress",
-    "conclusion": null,
+    "status": "completed",
+    "conclusion": "success",
     "started_at": "2026-07-25T02:32:49Z",
-    "completed_at": null,
+    "completed_at": "2026-07-25T03:20:45Z",
     "html_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/30140630986/job/89633048549",
     "details_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/30140630986/job/89633048549",
     "app": "GitHub Actions",
     "external_id": "d1a67ea0-fad2-536e-9c37-c5938b213934"
+  },
+  {
+    "id": 89680617175,
+    "repo": "bright9th/gh-stats",
+    "sha": "76917f76d3071583adaa412e2ba93a5181dc8e71",
+    "name": "full-stack",
+    "status": "completed",
+    "conclusion": "success",
+    "started_at": "2026-07-25T12:56:29Z",
+    "completed_at": "2026-07-25T12:57:17Z",
+    "html_url": "https://github.com/bright9th/gh-stats/actions/runs/30158811789/job/89680617175",
+    "details_url": "https://github.com/bright9th/gh-stats/actions/runs/30158811789/job/89680617175",
+    "app": "GitHub Actions",
+    "external_id": "72fff076-a275-5aa0-a377-b30bbd94098c"
+  },
+  {
+    "id": 89747812900,
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "6c0a518d96cf93fd913d811898bb27ffc7200b5f",
+    "name": "sync",
+    "status": "in_progress",
+    "conclusion": null,
+    "started_at": "2026-07-26T02:40:48Z",
+    "completed_at": null,
+    "html_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/30184941550/job/89747812900",
+    "details_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/30184941550/job/89747812900",
+    "app": "GitHub Actions",
+    "external_id": "d2279c34-f89b-5cfc-a945-b0baee495c91"
   }
 ]
