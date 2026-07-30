@@ -79480,6 +79480,48 @@
     },
     {
       "repo": "bright9th/falling-nikochan",
+      "sha": "92563366adfae6121a178f698dba6ae1607df60a",
+      "filename": "bun.lock",
+      "status": "modified",
+      "additions": 40,
+      "deletions": 10,
+      "changes": 50,
+      "changedFiles": 3,
+      "extension": "lock",
+      "filenameLength": 8,
+      "netChanges": 30,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/falling-nikochan",
+      "sha": "92563366adfae6121a178f698dba6ae1607df60a",
+      "filename": "package-lock.json",
+      "status": "modified",
+      "additions": 53,
+      "deletions": 46,
+      "changes": 99,
+      "changedFiles": 3,
+      "extension": "json",
+      "filenameLength": 17,
+      "netChanges": 7,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/falling-nikochan",
+      "sha": "92563366adfae6121a178f698dba6ae1607df60a",
+      "filename": "package.json",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "changedFiles": 3,
+      "extension": "json",
+      "filenameLength": 12,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/falling-nikochan",
       "sha": "92e6dfc1caae81d76293247be6675483446003a0",
       "filename": ".gitattributes",
       "status": "added",
@@ -146260,6 +146302,566 @@
     },
     {
       "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/branches/current.json",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 26,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/branches/snapshots/2026-07-29T02-36-55.049Z.json",
+      "status": "renamed",
+      "additions": 44,
+      "deletions": 16,
+      "changes": 60,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 53,
+      "netChanges": 28,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/check-runs/current.json",
+      "status": "modified",
+      "additions": 157,
+      "deletions": 73,
+      "changes": 230,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 28,
+      "netChanges": 84,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/check-runs/snapshots/2026-07-29T03-12-55.937Z.json",
+      "status": "renamed",
+      "additions": 1160,
+      "deletions": 712,
+      "changes": 1872,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 55,
+      "netChanges": 448,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/commit-comment-reactions/snapshots/2026-07-29T02-38-31.223Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 69,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/commit-comments/snapshots/2026-07-29T02-37-33.009Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 60,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/commit-stats/current.json",
+      "status": "modified",
+      "additions": 1261,
+      "deletions": 39,
+      "changes": 1300,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 30,
+      "netChanges": 1222,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/commit-stats/snapshots/2026-07-29T02-58-35.210Z.json",
+      "status": "renamed",
+      "additions": 13351,
+      "deletions": 39,
+      "changes": 13390,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 57,
+      "netChanges": 13312,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/commits/current.json",
+      "status": "modified",
+      "additions": 24,
+      "deletions": 0,
+      "changes": 24,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 25,
+      "netChanges": 24,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/commits/snapshots/2026-07-29T02-37-12.089Z.json",
+      "status": "renamed",
+      "additions": 372,
+      "deletions": 0,
+      "changes": 372,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 52,
+      "netChanges": 372,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/contributors/current.json",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 30,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/contributors/snapshots/2026-07-29T02-36-44.224Z.json",
+      "status": "renamed",
+      "additions": 15,
+      "deletions": 5,
+      "changes": 20,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 57,
+      "netChanges": 10,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/deployments/snapshots/2026-07-29T02-37-22.604Z.json",
+      "status": "renamed",
+      "additions": 84,
+      "deletions": 0,
+      "changes": 84,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 56,
+      "netChanges": 84,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/environments/snapshots/2026-07-29T02-37-37.678Z.json",
+      "status": "renamed",
+      "additions": 9,
+      "deletions": 0,
+      "changes": 9,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 57,
+      "netChanges": 9,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/followers/snapshots/2026-07-29T02-31-45.508Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 54,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/following/snapshots/2026-07-29T02-31-45.610Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 54,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/gists/snapshots/2026-07-29T02-31-52.122Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 50,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/issue-comment-reactions/snapshots/2026-07-29T02-38-31.220Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 68,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/issue-comments/snapshots/2026-07-29T02-33-21.852Z.json",
+      "status": "renamed",
+      "additions": 78,
+      "deletions": 0,
+      "changes": 78,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 59,
+      "netChanges": 78,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/issue-reactions/snapshots/2026-07-29T02-38-04.981Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 60,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/issues/snapshots/2026-07-29T02-31-48.820Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 51,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/labels/snapshots/2026-07-29T02-38-33.907Z.json",
+      "status": "renamed",
+      "additions": 88,
+      "deletions": 0,
+      "changes": 88,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 51,
+      "netChanges": 88,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/languages/snapshots/2026-07-29T02-36-49.193Z.json",
+      "status": "renamed",
+      "additions": 20,
+      "deletions": 0,
+      "changes": 20,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 54,
+      "netChanges": 20,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/manifest.json",
+      "status": "modified",
+      "additions": 14,
+      "deletions": 14,
+      "changes": 28,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 18,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/milestones/snapshots/2026-07-29T02-37-27.726Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 55,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/organizations/snapshots/2026-07-29T02-31-52.031Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 58,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/pull-request-review-comment-reactions/snapshots/2026-07-29T02-38-31.222Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 82,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/pull-request-review-comments/snapshots/2026-07-29T02-36-37.875Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 73,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/pull-request-reviews/snapshots/2026-07-29T02-35-08.420Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 65,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/pull-requests/current.json",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 31,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/pull-requests/snapshots/2026-07-29T02-31-51.921Z.json",
+      "status": "renamed",
+      "additions": 182,
+      "deletions": 11,
+      "changes": 193,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 58,
+      "netChanges": 171,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/releases/snapshots/2026-07-29T02-31-58.572Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 53,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/repos/current.json",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 4,
+      "changes": 8,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 23,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/repos/snapshots/2026-07-29T02-31-44.941Z.json",
+      "status": "renamed",
+      "additions": 23,
+      "deletions": 6,
+      "changes": 29,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 50,
+      "netChanges": 17,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/stars/current.json",
+      "status": "modified",
+      "additions": 33,
+      "deletions": 33,
+      "changes": 66,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 23,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/stars/snapshots/2026-07-29T02-31-45.387Z.json",
+      "status": "renamed",
+      "additions": 65,
+      "deletions": 48,
+      "changes": 113,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 50,
+      "netChanges": 17,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/sync-report.json",
+      "status": "modified",
+      "additions": 34,
+      "deletions": 34,
+      "changes": 68,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 21,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/tags/snapshots/2026-07-29T02-37-17.431Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 49,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/workflow-runs/current.json",
+      "status": "modified",
+      "additions": 291,
+      "deletions": 3,
+      "changes": 294,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 31,
+      "netChanges": 288,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "filename": "data/workflow-runs/snapshots/2026-07-29T02-33-16.078Z.json",
+      "status": "renamed",
+      "additions": 2675,
+      "deletions": 3,
+      "changes": 2678,
+      "changedFiles": 40,
+      "extension": "json",
+      "filenameLength": 58,
+      "netChanges": 2672,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-activity-vault",
       "sha": "2ebac7507782ba68a2803da9f706fe6f3753d4ee",
       "filename": "data/branches/current.json",
       "status": "modified",
@@ -201332,6 +201934,762 @@
       "extension": "json",
       "filenameLength": 27,
       "netChanges": 208,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/branches/current.json",
+      "status": "modified",
+      "additions": 12,
+      "deletions": 12,
+      "changes": 24,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 41,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/branches/snapshots/2026-07-29T13-42-21.477Z.json",
+      "status": "renamed",
+      "additions": 113,
+      "deletions": 50,
+      "changes": 163,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 68,
+      "netChanges": 63,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/check-runs/current.json",
+      "status": "modified",
+      "additions": 2015,
+      "deletions": 1913,
+      "changes": 3928,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 43,
+      "netChanges": 102,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/check-runs/snapshots/2026-07-29T13-42-21.503Z.json",
+      "status": "renamed",
+      "additions": 3288,
+      "deletions": 2764,
+      "changes": 6052,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 70,
+      "netChanges": 524,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/commit-comment-reactions/snapshots/2026-07-29T13-42-21.533Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 84,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/commit-comments/snapshots/2026-07-29T13-42-21.545Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 75,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/commit-stats/current.json",
+      "status": "modified",
+      "additions": 2041,
+      "deletions": 310,
+      "changes": 2351,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 45,
+      "netChanges": 1731,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/commit-stats/snapshots/2026-07-29T13-42-21.685Z.json",
+      "status": "renamed",
+      "additions": 20473,
+      "deletions": 1765,
+      "changes": 22238,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 72,
+      "netChanges": 18708,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/commits/current.json",
+      "status": "modified",
+      "additions": 2631,
+      "deletions": 2599,
+      "changes": 5230,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 40,
+      "netChanges": 32,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/commits/snapshots/2026-07-29T13-42-21.986Z.json",
+      "status": "renamed",
+      "additions": 3093,
+      "deletions": 2589,
+      "changes": 5682,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 67,
+      "netChanges": 504,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/contributors/current.json",
+      "status": "modified",
+      "additions": 13,
+      "deletions": 13,
+      "changes": 26,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 45,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/contributors/snapshots/2026-07-29T13-42-22.013Z.json",
+      "status": "renamed",
+      "additions": 58,
+      "deletions": 38,
+      "changes": 96,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 72,
+      "netChanges": 20,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/data.manifest.json",
+      "status": "modified",
+      "additions": 15,
+      "deletions": 15,
+      "changes": 30,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 38,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/deployments/current.json",
+      "status": "modified",
+      "additions": 122,
+      "deletions": 122,
+      "changes": 244,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 44,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/deployments/snapshots/2026-07-29T13-42-22.022Z.json",
+      "status": "renamed",
+      "additions": 244,
+      "deletions": 126,
+      "changes": 370,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 71,
+      "netChanges": 118,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/environments/current.json",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 7,
+      "changes": 14,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 45,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/environments/snapshots/2026-07-29T13-42-22.030Z.json",
+      "status": "renamed",
+      "additions": 39,
+      "deletions": 12,
+      "changes": 51,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 72,
+      "netChanges": 27,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/followers/snapshots/2026-07-29T13-42-22.037Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 69,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/following/snapshots/2026-07-29T13-42-22.043Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 69,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/gists/snapshots/2026-07-29T13-42-22.048Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 65,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/issue-comment-reactions/snapshots/2026-07-29T13-42-22.055Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 83,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/issue-comments/current.json",
+      "status": "modified",
+      "additions": 188,
+      "deletions": 188,
+      "changes": 376,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 47,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/issue-comments/snapshots/2026-07-29T13-42-22.062Z.json",
+      "status": "renamed",
+      "additions": 304,
+      "deletions": 212,
+      "changes": 516,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 74,
+      "netChanges": 92,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/issue-reactions/snapshots/2026-07-29T13-42-22.069Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 75,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/issues/current.json",
+      "status": "modified",
+      "additions": 185,
+      "deletions": 185,
+      "changes": 370,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 39,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/issues/snapshots/2026-07-29T13-42-22.075Z.json",
+      "status": "renamed",
+      "additions": 185,
+      "deletions": 185,
+      "changes": 370,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 66,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/labels/snapshots/2026-07-29T13-42-22.085Z.json",
+      "status": "renamed",
+      "additions": 177,
+      "deletions": 44,
+      "changes": 221,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 66,
+      "netChanges": 133,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/languages/snapshots/2026-07-29T13-42-22.092Z.json",
+      "status": "renamed",
+      "additions": 85,
+      "deletions": 54,
+      "changes": 139,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 69,
+      "netChanges": 31,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/milestones/current.json",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 43,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/milestones/snapshots/2026-07-29T13-42-22.099Z.json",
+      "status": "renamed",
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 70,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/organizations/snapshots/2026-07-29T13-42-22.104Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 73,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/pull-request-review-comment-reactions/snapshots/2026-07-29T13-42-22.109Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 97,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/pull-request-review-comments/snapshots/2026-07-29T13-42-22.115Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 88,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/pull-request-reviews/snapshots/2026-07-29T13-42-22.120Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 80,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/pull-requests/current.json",
+      "status": "modified",
+      "additions": 635,
+      "deletions": 635,
+      "changes": 1270,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 46,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/pull-requests/snapshots/2026-07-29T13-42-22.129Z.json",
+      "status": "renamed",
+      "additions": 866,
+      "deletions": 650,
+      "changes": 1516,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 73,
+      "netChanges": 216,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/releases/snapshots/2026-07-29T13-42-22.139Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 68,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/repos/current.json",
+      "status": "modified",
+      "additions": 55,
+      "deletions": 55,
+      "changes": 110,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 38,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/repos/snapshots/2026-07-29T13-42-22.145Z.json",
+      "status": "renamed",
+      "additions": 75,
+      "deletions": 59,
+      "changes": 134,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 65,
+      "netChanges": 16,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/stars/current.json",
+      "status": "modified",
+      "additions": 149,
+      "deletions": 149,
+      "changes": 298,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 38,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/stars/snapshots/2026-07-29T13-42-22.151Z.json",
+      "status": "renamed",
+      "additions": 224,
+      "deletions": 198,
+      "changes": 422,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 65,
+      "netChanges": 26,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/tags/snapshots/2026-07-29T13-42-22.159Z.json",
+      "status": "renamed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 64,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/workflow-runs/current.json",
+      "status": "modified",
+      "additions": 2975,
+      "deletions": 2567,
+      "changes": 5542,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 46,
+      "netChanges": 408,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/processed/SISO/workflow-runs/snapshots/2026-07-29T13-42-22.190Z.json",
+      "status": "renamed",
+      "additions": 6948,
+      "deletions": 3363,
+      "changes": 10311,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 73,
+      "netChanges": 3585,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/branches.json",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 22,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/check-runs.json",
+      "status": "modified",
+      "additions": 157,
+      "deletions": 73,
+      "changes": 230,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 24,
+      "netChanges": 84,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/commit-stats.json",
+      "status": "modified",
+      "additions": 1261,
+      "deletions": 39,
+      "changes": 1300,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 26,
+      "netChanges": 1222,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/commits.json",
+      "status": "modified",
+      "additions": 24,
+      "deletions": 0,
+      "changes": 24,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 21,
+      "netChanges": 24,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/contributors.json",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 26,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/data.manifest.json",
+      "status": "modified",
+      "additions": 14,
+      "deletions": 14,
+      "changes": 28,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 27,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/pull-requests.json",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 27,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/repos.json",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 4,
+      "changes": 8,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 19,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/stars.json",
+      "status": "modified",
+      "additions": 33,
+      "deletions": 33,
+      "changes": 66,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 19,
+      "netChanges": 0,
+      "isBinary": false
+    },
+    {
+      "repo": "bright9th/gh-stats",
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "filename": "data/raw/workflow-runs.json",
+      "status": "modified",
+      "additions": 291,
+      "deletions": 3,
+      "changes": 294,
+      "changedFiles": 54,
+      "extension": "json",
+      "filenameLength": 27,
+      "netChanges": 288,
       "isBinary": false
     },
     {
@@ -327560,44 +328918,44 @@
     }
   ],
   "overview": {
-    "totalRecords": 23397,
-    "totalAdditions": 16793191,
-    "totalDeletions": 5780659,
-    "totalChanges": 22573850,
-    "totalFiles": 23397,
-    "netChanges": 11012532,
+    "totalRecords": 23494,
+    "totalAdditions": 16862320,
+    "totalDeletions": 5802853,
+    "totalChanges": 22665173,
+    "totalFiles": 23494,
+    "netChanges": 11059467,
     "uniqueRepositories": 18,
-    "uniqueCommits": 2577,
-    "uniqueFiles": 7405,
+    "uniqueCommits": 2580,
+    "uniqueFiles": 7463,
     "uniqueExtensions": 81
   },
   "repos": [
     {
       "repo": "bright9th/gh-stats",
-      "commits": 85,
-      "files": 4147,
-      "additions": 10943616,
-      "deletions": 4591623,
-      "changes": 15535239,
-      "averageChangesPerFile": 3746.1391367253436
+      "commits": 86,
+      "files": 4201,
+      "additions": 10992649,
+      "deletions": 4612702,
+      "changes": 15605351,
+      "averageChangesPerFile": 3714.675315401095
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "commits": 85,
-      "files": 2954,
-      "additions": 5464276,
-      "deletions": 1008531,
-      "changes": 6472807,
-      "averageChangesPerFile": 2191.2007447528777
+      "commits": 86,
+      "files": 2994,
+      "additions": 5484278,
+      "deletions": 1009589,
+      "changes": 6493867,
+      "averageChangesPerFile": 2168.9602538410154
     },
     {
       "repo": "bright9th/falling-nikochan",
-      "commits": 1263,
-      "files": 9322,
-      "additions": 222756,
-      "deletions": 147157,
-      "changes": 369913,
-      "averageChangesPerFile": 39.681720660802405
+      "commits": 1264,
+      "files": 9325,
+      "additions": 222850,
+      "deletions": 147214,
+      "changes": 370064,
+      "averageChangesPerFile": 39.68514745308311
     },
     {
       "repo": "bright9th/stella-nova-archive",
@@ -328484,6 +329842,15 @@
       "netChanges": 23894
     },
     {
+      "sha": "526eedc8533a27f1487cdecebf06f4f394be5f4b",
+      "repo": "bright9th/gh-stats",
+      "files": 54,
+      "additions": 49033,
+      "deletions": 21079,
+      "changes": 70112,
+      "netChanges": 27954
+    },
+    {
       "sha": "6cf28ab6e51a286cf266e571ad319757b4f623e3",
       "repo": "bright9th/gh-activity-vault",
       "files": 39,
@@ -328977,6 +330344,15 @@
       "deletions": 6665,
       "changes": 21580,
       "netChanges": 8250
+    },
+    {
+      "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
+      "repo": "bright9th/gh-activity-vault",
+      "files": 40,
+      "additions": 20002,
+      "deletions": 1058,
+      "changes": 21060,
+      "netChanges": 18944
     },
     {
       "sha": "21bba87086f14e48b7d8dec44a07bf23ca56a33c",
@@ -333495,6 +334871,15 @@
       "deletions": 53,
       "changes": 152,
       "netChanges": 46
+    },
+    {
+      "sha": "92563366adfae6121a178f698dba6ae1607df60a",
+      "repo": "bright9th/falling-nikochan",
+      "files": 3,
+      "additions": 94,
+      "deletions": 57,
+      "changes": 151,
+      "netChanges": 37
     },
     {
       "sha": "be58a94fe1184b76ab9b4654001d12f7d9c32dc6",
@@ -350933,45 +352318,45 @@
   "files": [
     {
       "filename": "data/processed/SISO/commit-stats/current.json",
-      "commits": 66,
-      "additions": 685499,
-      "deletions": 283583,
-      "changes": 969082
+      "commits": 67,
+      "additions": 687540,
+      "deletions": 283893,
+      "changes": 971433
     },
     {
       "filename": "data/commit-stats/current.json",
-      "commits": 69,
-      "additions": 564569,
-      "deletions": 261628,
-      "changes": 826197
+      "commits": 70,
+      "additions": 565830,
+      "deletions": 261667,
+      "changes": 827497
     },
     {
       "filename": "data/raw/commit-stats.json",
-      "commits": 67,
-      "additions": 561451,
-      "deletions": 262254,
-      "changes": 823705
+      "commits": 68,
+      "additions": 562712,
+      "deletions": 262293,
+      "changes": 825005
     },
     {
       "filename": "data/processed/SISO/commits/current.json",
-      "commits": 69,
-      "additions": 236205,
-      "deletions": 194351,
-      "changes": 430556
+      "commits": 70,
+      "additions": 238836,
+      "deletions": 196950,
+      "changes": 435786
     },
     {
       "filename": "data/processed/SISO/workflow-runs/current.json",
-      "commits": 69,
-      "additions": 233793,
-      "deletions": 181786,
-      "changes": 415579
+      "commits": 70,
+      "additions": 236768,
+      "deletions": 184353,
+      "changes": 421121
     },
     {
       "filename": "data/processed/SISO/check-runs/current.json",
-      "commits": 69,
-      "additions": 173142,
-      "deletions": 142087,
-      "changes": 315229
+      "commits": 70,
+      "additions": 175157,
+      "deletions": 144000,
+      "changes": 319157
     },
     {
       "filename": "data/processed/SISO/commit-stats/snapshots/2026-06-01T17-14-00.019Z.json",
@@ -351262,59 +352647,59 @@
     },
     {
       "filename": "package-lock.json",
-      "commits": 833,
-      "additions": 79053,
-      "deletions": 69274,
-      "changes": 148327
+      "commits": 834,
+      "additions": 79106,
+      "deletions": 69320,
+      "changes": 148426
     },
     {
       "filename": "data/raw/workflow-runs.json",
-      "commits": 68,
-      "additions": 72925,
-      "deletions": 32651,
-      "changes": 105576
+      "commits": 69,
+      "additions": 73216,
+      "deletions": 32654,
+      "changes": 105870
     },
     {
       "filename": "data/workflow-runs/current.json",
-      "commits": 69,
-      "additions": 72640,
-      "deletions": 32366,
-      "changes": 105006
+      "commits": 70,
+      "additions": 72931,
+      "deletions": 32369,
+      "changes": 105300
     },
     {
       "filename": "data/processed/SISO/pull-requests/current.json",
-      "commits": 69,
-      "additions": 50510,
-      "deletions": 43546,
-      "changes": 94056
+      "commits": 70,
+      "additions": 51145,
+      "deletions": 44181,
+      "changes": 95326
     },
     {
       "filename": "data/raw/commits.json",
-      "commits": 68,
-      "additions": 58675,
+      "commits": 69,
+      "additions": 58699,
       "deletions": 27689,
-      "changes": 86364
+      "changes": 86388
     },
     {
       "filename": "data/commits/current.json",
-      "commits": 69,
-      "additions": 58447,
+      "commits": 70,
+      "additions": 58471,
       "deletions": 27461,
-      "changes": 85908
+      "changes": 85932
     },
     {
       "filename": "data/raw/check-runs.json",
-      "commits": 68,
-      "additions": 51460,
-      "deletions": 27798,
-      "changes": 79258
+      "commits": 69,
+      "additions": 51617,
+      "deletions": 27871,
+      "changes": 79488
     },
     {
       "filename": "data/check-runs/current.json",
-      "commits": 69,
-      "additions": 51309,
-      "deletions": 27647,
-      "changes": 78956
+      "commits": 70,
+      "additions": 51466,
+      "deletions": 27720,
+      "changes": 79186
     },
     {
       "filename": "data/commit-stats/snapshots/2026-07-21T03-00-13.878Z.json",
@@ -352025,10 +353410,10 @@
     },
     {
       "filename": "data/processed/SISO/issues/current.json",
-      "commits": 69,
-      "additions": 16505,
-      "deletions": 14093,
-      "changes": 30598
+      "commits": 70,
+      "additions": 16690,
+      "deletions": 14278,
+      "changes": 30968
     },
     {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-05-24T06-39-35.182Z.json",
@@ -352122,6 +353507,13 @@
       "changes": 27816
     },
     {
+      "filename": "data/processed/SISO/issue-comments/current.json",
+      "commits": 70,
+      "additions": 14882,
+      "deletions": 12921,
+      "changes": 27803
+    },
+    {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-06-01T17-13-59.881Z.json",
       "commits": 1,
       "additions": 27766,
@@ -352192,13 +353584,6 @@
       "changes": 27429
     },
     {
-      "filename": "data/processed/SISO/issue-comments/current.json",
-      "commits": 69,
-      "additions": 14694,
-      "deletions": 12733,
-      "changes": 27427
-    },
-    {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-05-25T14-30-57.364Z.json",
       "commits": 1,
       "additions": 27387,
@@ -352235,10 +353620,24 @@
     },
     {
       "filename": "data/processed/SISO/stars/current.json",
-      "commits": 69,
-      "additions": 11432,
-      "deletions": 10733,
-      "changes": 22165
+      "commits": 70,
+      "additions": 11581,
+      "deletions": 10882,
+      "changes": 22463
+    },
+    {
+      "filename": "data/processed/SISO/commit-stats/snapshots/2026-07-29T13-42-21.685Z.json",
+      "commits": 1,
+      "additions": 20473,
+      "deletions": 1765,
+      "changes": 22238
+    },
+    {
+      "filename": "data/processed/SISO/deployments/current.json",
+      "commits": 70,
+      "additions": 12328,
+      "deletions": 9707,
+      "changes": 22035
     },
     {
       "filename": "data/processed/SISO/commit-stats/snapshots/2026-07-28T13-27-49.906Z.json",
@@ -352246,13 +353645,6 @@
       "additions": 20286,
       "deletions": 1513,
       "changes": 21799
-    },
-    {
-      "filename": "data/processed/SISO/deployments/current.json",
-      "commits": 69,
-      "additions": 12206,
-      "deletions": 9585,
-      "changes": 21791
     },
     {
       "filename": "data/commit-stats/snapshots/2026-06-27T03-45-51.893Z.json",
@@ -352403,17 +353795,17 @@
     },
     {
       "filename": "data/raw/pull-requests.json",
-      "commits": 52,
-      "additions": 10580,
-      "deletions": 5181,
-      "changes": 15761
+      "commits": 53,
+      "additions": 10588,
+      "deletions": 5189,
+      "changes": 15777
     },
     {
       "filename": "data/pull-requests/current.json",
-      "commits": 53,
-      "additions": 10422,
-      "deletions": 5023,
-      "changes": 15445
+      "commits": 54,
+      "additions": 10430,
+      "deletions": 5031,
+      "changes": 15461
     },
     {
       "filename": "data/commit-stats/snapshots/2026-07-23T03-06-55.488Z.json",
@@ -352458,6 +353850,13 @@
       "changes": 13403
     },
     {
+      "filename": "data/commit-stats/snapshots/2026-07-29T02-58-35.210Z.json",
+      "commits": 1,
+      "additions": 13351,
+      "deletions": 39,
+      "changes": 13390
+    },
+    {
       "filename": "data/commit-stats/snapshots/2026-07-28T02-58-21.239Z.json",
       "commits": 1,
       "additions": 13364,
@@ -352500,11 +353899,18 @@
       "changes": 10456
     },
     {
+      "filename": "data/processed/SISO/workflow-runs/snapshots/2026-07-29T13-42-22.190Z.json",
+      "commits": 1,
+      "additions": 6948,
+      "deletions": 3363,
+      "changes": 10311
+    },
+    {
       "filename": "bun.lock",
-      "commits": 211,
-      "additions": 4793,
-      "deletions": 4823,
-      "changes": 9616
+      "commits": 212,
+      "additions": 4833,
+      "deletions": 4833,
+      "changes": 9666
     },
     {
       "filename": "data/processed/SISO/workflow-runs/snapshots/2026-07-25T12-57-08.029Z.json",
@@ -352549,18 +353955,18 @@
       "changes": 8021
     },
     {
+      "filename": "data/processed/SISO/repos/current.json",
+      "commits": 70,
+      "additions": 4167,
+      "deletions": 3703,
+      "changes": 7870
+    },
+    {
       "filename": "data/processed/SISO/workflow-runs/snapshots/2026-07-27T14-08-07.962Z.json",
       "commits": 1,
       "additions": 5407,
       "deletions": 2459,
       "changes": 7866
-    },
-    {
-      "filename": "data/processed/SISO/repos/current.json",
-      "commits": 69,
-      "additions": 4112,
-      "deletions": 3648,
-      "changes": 7760
     },
     {
       "filename": "data/processed/SISO/labels/current.json",
@@ -352955,6 +354361,13 @@
       "changes": 6074
     },
     {
+      "filename": "data/processed/SISO/check-runs/snapshots/2026-07-29T13-42-21.503Z.json",
+      "commits": 1,
+      "additions": 3288,
+      "deletions": 2764,
+      "changes": 6052
+    },
+    {
       "filename": "data/processed/SISO/workflow-runs/snapshots/2026-07-09T14-27-19.107Z.json",
       "commits": 1,
       "additions": 3468,
@@ -353170,6 +354583,13 @@
       "additions": 3214,
       "deletions": 2472,
       "changes": 5686
+    },
+    {
+      "filename": "data/processed/SISO/commits/snapshots/2026-07-29T13-42-21.986Z.json",
+      "commits": 1,
+      "additions": 3093,
+      "deletions": 2589,
+      "changes": 5682
     },
     {
       "filename": "data/processed/SISO/workflow-runs/snapshots/2026-07-02T13-26-55.028Z.json",
@@ -353522,6 +354942,13 @@
       "changes": 5250
     },
     {
+      "filename": "data/stars/current.json",
+      "commits": 70,
+      "additions": 2772,
+      "deletions": 2396,
+      "changes": 5168
+    },
+    {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-07-18T12-46-08.206Z.json",
       "commits": 1,
       "additions": 3107,
@@ -353543,11 +354970,11 @@
       "changes": 5126
     },
     {
-      "filename": "data/stars/current.json",
+      "filename": "data/raw/stars.json",
       "commits": 69,
-      "additions": 2739,
-      "deletions": 2363,
-      "changes": 5102
+      "additions": 2747,
+      "deletions": 2371,
+      "changes": 5118
     },
     {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-06-27T13-05-26.800Z.json",
@@ -353597,13 +355024,6 @@
       "additions": 2687,
       "deletions": 2367,
       "changes": 5054
-    },
-    {
-      "filename": "data/raw/stars.json",
-      "commits": 68,
-      "additions": 2714,
-      "deletions": 2338,
-      "changes": 5052
     },
     {
       "filename": "data/processed/SISO/commits/snapshots/2026-06-14T13-25-26.918Z.json",
@@ -353697,6 +355117,13 @@
       "changes": 5030
     },
     {
+      "filename": "data/processed/SISO/branches/current.json",
+      "commits": 68,
+      "additions": 3117,
+      "deletions": 1909,
+      "changes": 5026
+    },
+    {
       "filename": "data/processed/SISO/commits/snapshots/2026-06-08T15-28-43.192Z.json",
       "commits": 1,
       "additions": 2673,
@@ -353730,13 +355157,6 @@
       "additions": 2665,
       "deletions": 2345,
       "changes": 5010
-    },
-    {
-      "filename": "data/processed/SISO/branches/current.json",
-      "commits": 67,
-      "additions": 3105,
-      "deletions": 1897,
-      "changes": 5002
     },
     {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-06-28T13-11-40.886Z.json",
@@ -353781,18 +355201,18 @@
       "changes": 4965
     },
     {
+      "filename": "data/sync-report.json",
+      "commits": 68,
+      "additions": 2564,
+      "deletions": 2383,
+      "changes": 4947
+    },
+    {
       "filename": "data/pull-requests/snapshots/2026-05-22T07-20-41.513Z.json",
       "commits": 1,
       "additions": 4913,
       "deletions": 0,
       "changes": 4913
-    },
-    {
-      "filename": "data/sync-report.json",
-      "commits": 67,
-      "additions": 2530,
-      "deletions": 2349,
-      "changes": 4879
     },
     {
       "filename": "data/processed/SISO/check-runs/snapshots/2026-06-12T14-31-15.352Z.json",
@@ -353984,18 +355404,18 @@
       "changes": 3790
     },
     {
+      "filename": "data/processed/SISO/contributors/current.json",
+      "commits": 68,
+      "additions": 2165,
+      "deletions": 1563,
+      "changes": 3728
+    },
+    {
       "filename": "LICENSE",
       "commits": 20,
       "additions": 2333,
       "deletions": 1391,
       "changes": 3724
-    },
-    {
-      "filename": "data/processed/SISO/contributors/current.json",
-      "commits": 67,
-      "additions": 2152,
-      "deletions": 1550,
-      "changes": 3702
     },
     {
       "filename": "README.md",
@@ -354061,6 +355481,13 @@
       "changes": 2726
     },
     {
+      "filename": "data/workflow-runs/snapshots/2026-07-29T02-33-16.078Z.json",
+      "commits": 1,
+      "additions": 2675,
+      "deletions": 3,
+      "changes": 2678
+    },
+    {
       "filename": "data/processed/SISO/deployments/snapshots/2026-05-24T06-39-35.797Z.json",
       "commits": 2,
       "additions": 105,
@@ -354097,10 +355524,10 @@
     },
     {
       "filename": "package.json",
-      "commits": 644,
-      "additions": 1438,
-      "deletions": 1021,
-      "changes": 2459
+      "commits": 645,
+      "additions": 1439,
+      "deletions": 1022,
+      "changes": 2461
     },
     {
       "filename": "data/processed/SISO/labels/snapshots/2026-06-01T17-14-00.379Z.json",
@@ -354108,6 +355535,13 @@
       "additions": 2446,
       "deletions": 0,
       "changes": 2446
+    },
+    {
+      "filename": "data/processed/SISO/data.manifest.json",
+      "commits": 69,
+      "additions": 1298,
+      "deletions": 1147,
+      "changes": 2445
     },
     {
       "filename": "data/workflow-runs/snapshots/2026-07-23T02-39-50.785Z.json",
@@ -354264,13 +355698,6 @@
       "changes": 2416
     },
     {
-      "filename": "data/processed/SISO/data.manifest.json",
-      "commits": 68,
-      "additions": 1283,
-      "deletions": 1132,
-      "changes": 2415
-    },
-    {
       "filename": "data/processed/SISO/issues/snapshots/2026-05-25T14-30-57.865Z.json",
       "commits": 1,
       "additions": 2412,
@@ -354376,18 +355803,18 @@
       "changes": 2305
     },
     {
+      "filename": "data/raw/data.manifest.json",
+      "commits": 67,
+      "additions": 1132,
+      "deletions": 1132,
+      "changes": 2264
+    },
+    {
       "filename": "data/workflow-runs/snapshots/2026-07-27T02-50-49.213Z.json",
       "commits": 1,
       "additions": 2243,
       "deletions": 3,
       "changes": 2246
-    },
-    {
-      "filename": "data/raw/data.manifest.json",
-      "commits": 66,
-      "additions": 1118,
-      "deletions": 1118,
-      "changes": 2236
     },
     {
       "filename": "data/check-runs/snapshots/2026-07-26T03-22-53.610Z.json",
@@ -354405,10 +355832,10 @@
     },
     {
       "filename": "data/manifest.json",
-      "commits": 67,
-      "additions": 1148,
-      "deletions": 997,
-      "changes": 2145
+      "commits": 68,
+      "additions": 1162,
+      "deletions": 1011,
+      "changes": 2173
     },
     {
       "filename": "data/processed/SISO/issue-comments/snapshots/2026-05-24T06-39-35.933Z.json",
@@ -354447,17 +355874,17 @@
     },
     {
       "filename": "data/raw/branches.json",
-      "commits": 68,
-      "additions": 1204,
-      "deletions": 789,
-      "changes": 1993
+      "commits": 69,
+      "additions": 1212,
+      "deletions": 797,
+      "changes": 2009
     },
     {
       "filename": "data/branches/current.json",
-      "commits": 69,
-      "additions": 1196,
-      "deletions": 781,
-      "changes": 1977
+      "commits": 70,
+      "additions": 1204,
+      "deletions": 789,
+      "changes": 1993
     },
     {
       "filename": "data/workflow-runs/snapshots/2026-07-22T02-34-41.097Z.json",
@@ -354486,6 +355913,13 @@
       "additions": 1575,
       "deletions": 342,
       "changes": 1917
+    },
+    {
+      "filename": "data/check-runs/snapshots/2026-07-29T03-12-55.937Z.json",
+      "commits": 1,
+      "additions": 1160,
+      "deletions": 712,
+      "changes": 1872
     },
     {
       "filename": "data/workflow-runs/snapshots/2026-07-19T02-37-38.907Z.json",
@@ -354698,6 +356132,13 @@
       "changes": 1736
     },
     {
+      "filename": "data/processed/SISO/milestones/current.json",
+      "commits": 70,
+      "additions": 981,
+      "deletions": 748,
+      "changes": 1729
+    },
+    {
       "filename": "src/App.svelte",
       "commits": 16,
       "additions": 1454,
@@ -354710,13 +356151,6 @@
       "additions": 733,
       "deletions": 981,
       "changes": 1714
-    },
-    {
-      "filename": "data/processed/SISO/milestones/current.json",
-      "commits": 69,
-      "additions": 973,
-      "deletions": 740,
-      "changes": 1713
     },
     {
       "filename": "data/check-runs/snapshots/2026-07-28T03-15-31.813Z.json",
@@ -354880,6 +356314,13 @@
       "changes": 1543
     },
     {
+      "filename": "data/processed/SISO/pull-requests/snapshots/2026-07-29T13-42-22.129Z.json",
+      "commits": 1,
+      "additions": 866,
+      "deletions": 650,
+      "changes": 1516
+    },
+    {
       "filename": "data/processed/SISO/pull-requests/snapshots/2026-07-28T13-27-50.249Z.json",
       "commits": 1,
       "additions": 864,
@@ -355013,6 +356454,13 @@
       "changes": 1476
     },
     {
+      "filename": "data/raw/repos.json",
+      "commits": 69,
+      "additions": 890,
+      "deletions": 582,
+      "changes": 1472
+    },
+    {
       "filename": "data/processed/SISO/pull-requests/snapshots/2026-07-23T13-21-23.538Z.json",
       "commits": 1,
       "additions": 823,
@@ -355025,13 +356473,6 @@
       "additions": 866,
       "deletions": 600,
       "changes": 1466
-    },
-    {
-      "filename": "data/raw/repos.json",
-      "commits": 68,
-      "additions": 886,
-      "deletions": 578,
-      "changes": 1464
     },
     {
       "filename": "data/workflow-runs/snapshots/2026-07-21T02-35-58.032Z.json",
@@ -355076,18 +356517,18 @@
       "changes": 1446
     },
     {
+      "filename": "data/repos/current.json",
+      "commits": 70,
+      "additions": 875,
+      "deletions": 567,
+      "changes": 1442
+    },
+    {
       "filename": "data/check-runs/snapshots/2026-06-24T04-09-56.575Z.json",
       "commits": 1,
       "additions": 880,
       "deletions": 558,
       "changes": 1438
-    },
-    {
-      "filename": "data/repos/current.json",
-      "commits": 69,
-      "additions": 871,
-      "deletions": 563,
-      "changes": 1434
     },
     {
       "filename": "src/components/layout/page-archive/TranslationBar/TlContent.tsx",
@@ -355741,6 +357182,13 @@
       "changes": 1202
     },
     {
+      "filename": "data/processed/SISO/environments/current.json",
+      "commits": 70,
+      "additions": 691,
+      "deletions": 493,
+      "changes": 1184
+    },
+    {
       "filename": "data/check-runs/snapshots/2026-06-18T04-32-19.311Z.json",
       "commits": 1,
       "additions": 843,
@@ -355776,18 +357224,11 @@
       "changes": 1173
     },
     {
-      "filename": "data/processed/SISO/environments/current.json",
-      "commits": 69,
-      "additions": 684,
-      "deletions": 486,
-      "changes": 1170
-    },
-    {
       "filename": "data/raw/contributors.json",
-      "commits": 68,
-      "additions": 740,
-      "deletions": 428,
-      "changes": 1168
+      "commits": 69,
+      "additions": 742,
+      "deletions": 430,
+      "changes": 1172
     },
     {
       "filename": "frontend/app/[locale]/play/statusBox.tsx",
@@ -355797,18 +357238,18 @@
       "changes": 1158
     },
     {
+      "filename": "data/contributors/current.json",
+      "commits": 70,
+      "additions": 733,
+      "deletions": 421,
+      "changes": 1154
+    },
+    {
       "filename": "data/check-runs/snapshots/2026-06-28T04-20-26.794Z.json",
       "commits": 1,
       "additions": 661,
       "deletions": 493,
       "changes": 1154
-    },
-    {
-      "filename": "data/contributors/current.json",
-      "commits": 69,
-      "additions": 731,
-      "deletions": 419,
-      "changes": 1150
     },
     {
       "filename": "data/workflow-runs/snapshots/2026-06-06T03-26-21.882Z.json",
@@ -357358,6 +358799,13 @@
       "changes": 516
     },
     {
+      "filename": "data/processed/SISO/issue-comments/snapshots/2026-07-29T13-42-22.062Z.json",
+      "commits": 1,
+      "additions": 304,
+      "deletions": 212,
+      "changes": 516
+    },
+    {
       "filename": "route/src/og/ogResult.tsx",
       "commits": 8,
       "additions": 457,
@@ -357915,6 +359363,13 @@
       "commits": 1,
       "additions": 236,
       "deletions": 186,
+      "changes": 422
+    },
+    {
+      "filename": "data/processed/SISO/stars/snapshots/2026-07-29T13-42-22.151Z.json",
+      "commits": 1,
+      "additions": 224,
+      "deletions": 198,
       "changes": 422
     },
     {
@@ -358702,6 +360157,13 @@
       "changes": 372
     },
     {
+      "filename": "data/commits/snapshots/2026-07-29T02-37-12.089Z.json",
+      "commits": 1,
+      "additions": 372,
+      "deletions": 0,
+      "changes": 372
+    },
+    {
       "filename": "data/commits/snapshots/2026-07-25T02-39-17.872Z.json",
       "commits": 1,
       "additions": 372,
@@ -358885,6 +360347,20 @@
     },
     {
       "filename": "data/processed/SISO/issues/snapshots/2026-07-06T14-55-05.572Z.json",
+      "commits": 1,
+      "additions": 185,
+      "deletions": 185,
+      "changes": 370
+    },
+    {
+      "filename": "data/processed/SISO/deployments/snapshots/2026-07-29T13-42-22.022Z.json",
+      "commits": 1,
+      "additions": 244,
+      "deletions": 126,
+      "changes": 370
+    },
+    {
+      "filename": "data/processed/SISO/issues/snapshots/2026-07-29T13-42-22.075Z.json",
       "commits": 1,
       "additions": 185,
       "deletions": 185,
@@ -361600,6 +363076,13 @@
       "changes": 221
     },
     {
+      "filename": "data/processed/SISO/labels/snapshots/2026-07-29T13-42-22.085Z.json",
+      "commits": 1,
+      "additions": 177,
+      "deletions": 44,
+      "changes": 221
+    },
+    {
       "filename": "data/processed/SISO/labels/snapshots/2026-07-24T13-14-45.911Z.json",
       "commits": 1,
       "additions": 177,
@@ -362245,6 +363728,13 @@
     },
     {
       "filename": "data/pull-requests/snapshots/2026-07-28T02-27-46.127Z.json",
+      "commits": 1,
+      "additions": 182,
+      "deletions": 11,
+      "changes": 193
+    },
+    {
+      "filename": "data/pull-requests/snapshots/2026-07-29T02-31-51.921Z.json",
       "commits": 1,
       "additions": 182,
       "deletions": 11,
@@ -362945,6 +364435,13 @@
     },
     {
       "filename": "data/processed/SISO/branches/snapshots/2026-07-28T13-27-49.740Z.json",
+      "commits": 1,
+      "additions": 113,
+      "deletions": 50,
+      "changes": 163
+    },
+    {
+      "filename": "data/processed/SISO/branches/snapshots/2026-07-29T13-42-21.477Z.json",
       "commits": 1,
       "additions": 113,
       "deletions": 50,
@@ -363749,6 +365246,13 @@
       "changes": 139
     },
     {
+      "filename": "data/processed/SISO/languages/snapshots/2026-07-29T13-42-22.092Z.json",
+      "commits": 1,
+      "additions": 85,
+      "deletions": 54,
+      "changes": 139
+    },
+    {
       "filename": "data/processed/SISO/languages/snapshots/2026-07-26T12-54-37.293Z.json",
       "commits": 1,
       "additions": 85,
@@ -363876,6 +365380,13 @@
     },
     {
       "filename": "data/processed/SISO/repos/snapshots/2026-07-28T13-27-50.261Z.json",
+      "commits": 1,
+      "additions": 75,
+      "deletions": 59,
+      "changes": 134
+    },
+    {
+      "filename": "data/processed/SISO/repos/snapshots/2026-07-29T13-42-22.145Z.json",
       "commits": 1,
       "additions": 75,
       "deletions": 59,
@@ -364461,6 +365972,13 @@
       "additions": 114,
       "deletions": 0,
       "changes": 114
+    },
+    {
+      "filename": "data/stars/snapshots/2026-07-29T02-31-45.387Z.json",
+      "commits": 1,
+      "additions": 65,
+      "deletions": 48,
+      "changes": 113
     },
     {
       "filename": "Scripts/Loader.gd",
@@ -365562,6 +367080,13 @@
       "changes": 96
     },
     {
+      "filename": "data/processed/SISO/contributors/snapshots/2026-07-29T13-42-22.013Z.json",
+      "commits": 1,
+      "additions": 58,
+      "deletions": 38,
+      "changes": 96
+    },
+    {
       "filename": "data/processed/SISO/repos/snapshots/2026-06-23T14-22-54.913Z.json",
       "commits": 1,
       "additions": 48,
@@ -366045,6 +367570,13 @@
       "changes": 88
     },
     {
+      "filename": "data/labels/snapshots/2026-07-29T02-38-33.907Z.json",
+      "commits": 1,
+      "additions": 88,
+      "deletions": 0,
+      "changes": 88
+    },
+    {
       "filename": "data/labels/snapshots/2026-07-24T02-41-33.765Z.json",
       "commits": 1,
       "additions": 88,
@@ -366287,6 +367819,13 @@
       "commits": 1,
       "additions": 42,
       "deletions": 42,
+      "changes": 84
+    },
+    {
+      "filename": "data/deployments/snapshots/2026-07-29T02-37-22.604Z.json",
+      "commits": 1,
+      "additions": 84,
+      "deletions": 0,
       "changes": 84
     },
     {
@@ -366543,6 +368082,13 @@
     },
     {
       "filename": "data/issue-comments/snapshots/2026-07-28T02-29-19.877Z.json",
+      "commits": 1,
+      "additions": 78,
+      "deletions": 0,
+      "changes": 78
+    },
+    {
+      "filename": "data/issue-comments/snapshots/2026-07-29T02-33-21.852Z.json",
       "commits": 1,
       "additions": 78,
       "deletions": 0,
@@ -367410,6 +368956,13 @@
       "changes": 60
     },
     {
+      "filename": "data/branches/snapshots/2026-07-29T02-36-55.049Z.json",
+      "commits": 1,
+      "additions": 44,
+      "deletions": 16,
+      "changes": 60
+    },
+    {
       "filename": "data/branches/snapshots/2026-07-25T02-38-54.730Z.json",
       "commits": 1,
       "additions": 44,
@@ -368055,6 +369608,13 @@
     },
     {
       "filename": "data/processed/SISO/environments/snapshots/2026-07-28T13-27-50.173Z.json",
+      "commits": 1,
+      "additions": 39,
+      "deletions": 12,
+      "changes": 51
+    },
+    {
+      "filename": "data/processed/SISO/environments/snapshots/2026-07-29T13-42-22.030Z.json",
       "commits": 1,
       "additions": 39,
       "deletions": 12,
@@ -370707,6 +372267,13 @@
       "changes": 29
     },
     {
+      "filename": "data/repos/snapshots/2026-07-29T02-31-44.941Z.json",
+      "commits": 1,
+      "additions": 23,
+      "deletions": 6,
+      "changes": 29
+    },
+    {
       "filename": "data/repos/snapshots/2026-07-19T02-36-22.200Z.json",
       "commits": 1,
       "additions": 23,
@@ -373136,6 +374703,20 @@
       "changes": 20
     },
     {
+      "filename": "data/contributors/snapshots/2026-07-29T02-36-44.224Z.json",
+      "commits": 1,
+      "additions": 15,
+      "deletions": 5,
+      "changes": 20
+    },
+    {
+      "filename": "data/languages/snapshots/2026-07-29T02-36-49.193Z.json",
+      "commits": 1,
+      "additions": 20,
+      "deletions": 0,
+      "changes": 20
+    },
+    {
       "filename": "data/contributors/snapshots/2026-06-29T03-57-01.461Z.json",
       "commits": 1,
       "additions": 15,
@@ -374929,6 +376510,13 @@
     },
     {
       "filename": "data/processed/SISO/milestones/snapshots/2026-07-06T14-55-05.598Z.json",
+      "commits": 1,
+      "additions": 8,
+      "deletions": 8,
+      "changes": 16
+    },
+    {
+      "filename": "data/processed/SISO/milestones/snapshots/2026-07-29T13-42-22.099Z.json",
       "commits": 1,
       "additions": 8,
       "deletions": 8,
@@ -376745,6 +378333,13 @@
       "commits": 2,
       "additions": 0,
       "deletions": 9,
+      "changes": 9
+    },
+    {
+      "filename": "data/environments/snapshots/2026-07-29T02-37-37.678Z.json",
+      "commits": 1,
+      "additions": 9,
+      "deletions": 0,
       "changes": 9
     },
     {
@@ -386226,6 +387821,111 @@
       "changes": 0
     },
     {
+      "filename": "data/commit-comment-reactions/snapshots/2026-07-29T02-38-31.223Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/commit-comments/snapshots/2026-07-29T02-37-33.009Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/followers/snapshots/2026-07-29T02-31-45.508Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/following/snapshots/2026-07-29T02-31-45.610Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/gists/snapshots/2026-07-29T02-31-52.122Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/issue-comment-reactions/snapshots/2026-07-29T02-38-31.220Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/issue-reactions/snapshots/2026-07-29T02-38-04.981Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/issues/snapshots/2026-07-29T02-31-48.820Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/milestones/snapshots/2026-07-29T02-37-27.726Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/organizations/snapshots/2026-07-29T02-31-52.031Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/pull-request-review-comment-reactions/snapshots/2026-07-29T02-38-31.222Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/pull-request-review-comments/snapshots/2026-07-29T02-36-37.875Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/pull-request-reviews/snapshots/2026-07-29T02-35-08.420Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/releases/snapshots/2026-07-29T02-31-58.572Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/tags/snapshots/2026-07-29T02-37-17.431Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
       "filename": "data/commit-comment-reactions/snapshots/2026-07-23T02-45-37.680Z.json",
       "commits": 1,
       "additions": 0,
@@ -393948,6 +395648,97 @@
     },
     {
       "filename": "data/processed/SISO/tags/snapshots/2026-07-06T14-55-05.653Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/commit-comment-reactions/snapshots/2026-07-29T13-42-21.533Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/commit-comments/snapshots/2026-07-29T13-42-21.545Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/followers/snapshots/2026-07-29T13-42-22.037Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/following/snapshots/2026-07-29T13-42-22.043Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/gists/snapshots/2026-07-29T13-42-22.048Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/issue-comment-reactions/snapshots/2026-07-29T13-42-22.055Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/issue-reactions/snapshots/2026-07-29T13-42-22.069Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/organizations/snapshots/2026-07-29T13-42-22.104Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/pull-request-review-comment-reactions/snapshots/2026-07-29T13-42-22.109Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/pull-request-review-comments/snapshots/2026-07-29T13-42-22.115Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/pull-request-reviews/snapshots/2026-07-29T13-42-22.120Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/releases/snapshots/2026-07-29T13-42-22.139Z.json",
+      "commits": 1,
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0
+    },
+    {
+      "filename": "data/processed/SISO/tags/snapshots/2026-07-29T13-42-22.159Z.json",
       "commits": 1,
       "additions": 0,
       "deletions": 0,
@@ -402770,7 +404561,7 @@
   "statuses": [
     {
       "status": "modified",
-      "count": 13886
+      "count": 13925
     },
     {
       "status": "added",
@@ -402778,7 +404569,7 @@
     },
     {
       "status": "renamed",
-      "count": 4041
+      "count": 4099
     },
     {
       "status": "removed",
@@ -402788,9 +404579,9 @@
   "extensions": [
     {
       "extension": "json",
-      "files": 9938,
-      "changes": 22147261,
-      "averageChanges": 2228.543067015496
+      "files": 10034,
+      "changes": 22238534,
+      "averageChanges": 2216.3179190751443
     },
     {
       "extension": "tsx",
@@ -402812,9 +404603,9 @@
     },
     {
       "extension": "lock",
-      "files": 224,
-      "changes": 18095,
-      "averageChanges": 80.78125
+      "files": 225,
+      "changes": 18145,
+      "averageChanges": 80.64444444444445
     },
     {
       "extension": "cfg",
@@ -403276,18 +405067,18 @@
   "topRepositories": [
     {
       "repo": "bright9th/gh-stats",
-      "changes": 15535239,
-      "files": 4147
+      "changes": 15605351,
+      "files": 4201
     },
     {
       "repo": "bright9th/gh-activity-vault",
-      "changes": 6472807,
-      "files": 2954
+      "changes": 6493867,
+      "files": 2994
     },
     {
       "repo": "bright9th/falling-nikochan",
-      "changes": 369913,
-      "files": 9322
+      "changes": 370064,
+      "files": 9325
     },
     {
       "repo": "bright9th/stella-nova-archive",
@@ -403520,33 +405311,33 @@
   "mostChangedFiles": [
     {
       "filename": "data/processed/SISO/commit-stats/current.json",
-      "changes": 969082,
-      "commits": 66
-    },
-    {
-      "filename": "data/commit-stats/current.json",
-      "changes": 826197,
-      "commits": 69
-    },
-    {
-      "filename": "data/raw/commit-stats.json",
-      "changes": 823705,
+      "changes": 971433,
       "commits": 67
     },
     {
+      "filename": "data/commit-stats/current.json",
+      "changes": 827497,
+      "commits": 70
+    },
+    {
+      "filename": "data/raw/commit-stats.json",
+      "changes": 825005,
+      "commits": 68
+    },
+    {
       "filename": "data/processed/SISO/commits/current.json",
-      "changes": 430556,
-      "commits": 69
+      "changes": 435786,
+      "commits": 70
     },
     {
       "filename": "data/processed/SISO/workflow-runs/current.json",
-      "changes": 415579,
-      "commits": 69
+      "changes": 421121,
+      "commits": 70
     },
     {
       "filename": "data/processed/SISO/check-runs/current.json",
-      "changes": 315229,
-      "commits": 69
+      "changes": 319157,
+      "commits": 70
     },
     {
       "filename": "data/processed/SISO/commit-stats/snapshots/2026-06-01T17-14-00.019Z.json",
