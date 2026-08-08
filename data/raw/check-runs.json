@@ -3136,20 +3136,6 @@
     "external_id": "519fb79b-e0d3-5046-ac5d-ba76f0c374c2"
   },
   {
-    "id": 78650172854,
-    "repo": "bright9th/gh-stats",
-    "sha": "4bc3776fd72435b3cb9bbae4eda192b231fc42fc",
-    "name": "full-stack",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2026-05-30T12:59:51Z",
-    "completed_at": "2026-05-30T13:00:22Z",
-    "html_url": "https://github.com/bright9th/gh-stats/actions/runs/26684444870/job/78650172854",
-    "details_url": "https://github.com/bright9th/gh-stats/actions/runs/26684444870/job/78650172854",
-    "app": "GitHub Actions",
-    "external_id": "d53d5564-e578-579c-9df7-85bca409ac8d"
-  },
-  {
     "id": 78697688735,
     "repo": "bright9th/gh-activity-vault",
     "sha": "50875fcb90b6a838d5ed7efa39421f06d8394b97",
@@ -3680,20 +3666,6 @@
     "details_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/27523509387/job/81346113621",
     "app": "GitHub Actions",
     "external_id": "babdedcb-0bb7-50bf-8863-d537cb54c102"
-  },
-  {
-    "id": 81476607662,
-    "repo": "bright9th/gh-stats",
-    "sha": "4758258e69aec31f9aaab4dca0bf2238e6c8bedf",
-    "name": "full-stack",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2026-06-15T16:52:23Z",
-    "completed_at": "2026-06-15T16:53:01Z",
-    "html_url": "https://github.com/bright9th/gh-stats/actions/runs/27562135632/job/81476607662",
-    "details_url": "https://github.com/bright9th/gh-stats/actions/runs/27562135632/job/81476607662",
-    "app": "GitHub Actions",
-    "external_id": "fbfdac49-c964-5ed3-9d62-d1c9a278578b"
   },
   {
     "id": 81555766493,
@@ -4704,20 +4676,6 @@
     "external_id": "8a3c429f-fc1a-5beb-bd17-9300bb7002ca"
   },
   {
-    "id": 85133989134,
-    "repo": "bright9th/gh-stats",
-    "sha": "488b90e2e2482f71ea4fd96b08007ee11ad6b5db",
-    "name": "full-stack",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2026-07-04T12:56:11Z",
-    "completed_at": "2026-07-04T12:56:56Z",
-    "html_url": "https://github.com/bright9th/gh-stats/actions/runs/28706907936/job/85133989134",
-    "details_url": "https://github.com/bright9th/gh-stats/actions/runs/28706907936/job/85133989134",
-    "app": "GitHub Actions",
-    "external_id": "fcd4e0a2-4f62-5fbe-aa41-79e458aac4e5"
-  },
-  {
     "id": 85188784573,
     "repo": "bright9th/gh-activity-vault",
     "sha": "727a771aad9abec35630060b9b8864712727446e",
@@ -4856,20 +4814,6 @@
     "details_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/28838985233/job/85528775666",
     "app": "GitHub Actions",
     "external_id": "13b93198-245d-5a26-b499-85714e248fca"
-  },
-  {
-    "id": 85637911050,
-    "repo": "bright9th/gh-stats",
-    "sha": "489d05d6b1cc9974b16b43b3a4f3fa7871aebba5",
-    "name": "full-stack",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2026-07-07T14:03:08Z",
-    "completed_at": "2026-07-07T14:03:45Z",
-    "html_url": "https://github.com/bright9th/gh-stats/actions/runs/28872267330/job/85637911050",
-    "details_url": "https://github.com/bright9th/gh-stats/actions/runs/28872267330/job/85637911050",
-    "app": "GitHub Actions",
-    "external_id": "555ee761-792d-5922-928a-8f671fec3dd8"
   },
   {
     "id": 85760992113,
@@ -5922,20 +5866,6 @@
     "external_id": "7d148bf8-1690-58a5-80bb-7d3ba06fc476"
   },
   {
-    "id": 90593695575,
-    "repo": "bright9th/gh-stats",
-    "sha": "43cebf61ee19a00b9ab4966e842af21ffb577b30",
-    "name": "full-stack",
-    "status": "completed",
-    "conclusion": "success",
-    "started_at": "2026-07-29T13:41:48Z",
-    "completed_at": "2026-07-29T13:42:30Z",
-    "html_url": "https://github.com/bright9th/gh-stats/actions/runs/30457192723/job/90593695575",
-    "details_url": "https://github.com/bright9th/gh-stats/actions/runs/30457192723/job/90593695575",
-    "app": "GitHub Actions",
-    "external_id": "8ee7b0e5-94d1-5fc8-9084-09380f81a61e"
-  },
-  {
     "id": 90746674389,
     "repo": "bright9th/gh-activity-vault",
     "sha": "2b27e201f30812c2705379b7e8c24151c5e4fc19",
@@ -6360,13 +6290,27 @@
     "repo": "bright9th/gh-activity-vault",
     "sha": "d09f9c3f879a44307290329c09e484010844b404",
     "name": "sync",
-    "status": "in_progress",
-    "conclusion": null,
+    "status": "completed",
+    "conclusion": "success",
     "started_at": "2026-08-07T02:36:01Z",
-    "completed_at": null,
+    "completed_at": "2026-08-07T03:16:36Z",
     "html_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/31141715259/job/92752821608",
     "details_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/31141715259/job/92752821608",
     "app": "GitHub Actions",
     "external_id": "776bb839-caa7-57c7-a63e-049747dbd657"
+  },
+  {
+    "id": 93039306851,
+    "repo": "bright9th/gh-activity-vault",
+    "sha": "0b73905b52c66de7d466f55af8e9a619a10060f4",
+    "name": "sync",
+    "status": "in_progress",
+    "conclusion": null,
+    "started_at": "2026-08-08T01:26:07Z",
+    "completed_at": null,
+    "html_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/31232633770/job/93039306851",
+    "details_url": "https://github.com/bright9th/gh-activity-vault/actions/runs/31232633770/job/93039306851",
+    "app": "GitHub Actions",
+    "external_id": "2fef1ac3-0674-53a6-ace8-fe27f803bd9e"
   }
 ]
